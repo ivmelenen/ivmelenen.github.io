@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/dfa815f3cb538bdd.css","style"]
+:HL["/_next/static/chunks/42edd922ae9d7e57.css","style"]
 :HL["/_next/static/media/Monocraft-s.p.7a4f3f0e.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-0:{"buildId":"xPs6A7H1zXWiBVBdAVR-L","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"uQLD3Qq_4TqQgZNXjbR9l","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
