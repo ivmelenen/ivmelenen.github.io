@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/b6b38b98b468c6c3.css","style"]
+:HL["/_next/static/chunks/057b8f0385ec278d.css","style"]
 :HL["/_next/static/media/CozetteVector-s.p.4f7582b9.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/_next/static/media/Monocraft-s.p.7a4f3f0e.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-0:{"buildId":"j191RW1AI4iHMG9UF4ej2","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"misc","paramType":null,"paramKey":"misc","hasRuntimePrefetch":false,"slots":{"children":{"name":"dice","paramType":null,"paramKey":"dice","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"SYRthxTdzEETlMlsOKY3c","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"misc","paramType":null,"paramKey":"misc","hasRuntimePrefetch":false,"slots":{"children":{"name":"dice","paramType":null,"paramKey":"dice","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
