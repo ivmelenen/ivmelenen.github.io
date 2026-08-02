@@ -1,3 +1,14 @@
-:HL["/_next/static/chunks/eeddda2e5d260d07.css","style"]
-:HL["/_next/static/media/Monocraft-s.p.ce2ed792.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-0:{"buildId":"M_mBgCyWGNAbO0fSgBRPL","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"misc","paramType":null,"paramKey":"misc","hasRuntimePrefetch":false,"slots":{"children":{"name":"anon","paramType":null,"paramKey":"anon","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/_next/static/chunks/2_z4010v0et_8.css","style"]
+:HL["/_next/static/media/Monocraft-s.p.1iksb_qpl1z51.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_Black-s.p.0s7-qfn6_9wh5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_Black_Italic-s.p.3njxcbyzolph-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_Bold-s.p.0yvhcuhsj88_c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_Bold_Italic-s.p.32q6kje3iwc5l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_ExtraLight-s.p.1zwdwvvh_9yvm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_ExtraLight_Italic-s.p.2_6939idp-y7y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_Italic-s.p.0a7s1u7kk8jhr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_Light-s.p.0pxxa0n6-7u_u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_Light_Italic-s.p.2c9eajrcuhlo0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_SemiBold-s.p.3wbot_rk2sn4z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Monocraft_SemiBold_Italic-s.p.3w69jopse93lo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"misc","param":null,"prefetchHints":0,"slots":{"children":{"name":"anon","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"xV9ThC4odC_yUFdTjds05"}
