@@ -1,19 +1,1324 @@
 1:"$Sreact.fragment"
-2:I[3803,["/_next/static/chunks/2wx_0fj_nwi17.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1ifoyhwahlc0s.js","/_next/static/chunks/2l9vl-arqyrt5.js"],"SlabTemplate"]
-3:I[22016,["/_next/static/chunks/2wx_0fj_nwi17.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1ifoyhwahlc0s.js","/_next/static/chunks/2l9vl-arqyrt5.js"],""]
-10:I[97367,["/_next/static/chunks/2wx_0fj_nwi17.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
-11:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","div",null,{"data-slot":"card","className":"flex flex-col gap-4 border-[3px] border-foreground bg-background text-foreground rounded-none shadow-none p-4","children":[["$","div",null,{"data-slot":"card-header","className":"flex flex-col gap-1 border-b-[3px] border-foreground pb-3","children":["$","div",null,{"data-slot":"card-title","className":"font-bold text-lg leading-tight","children":"blog"}]}],["$","div",null,{"data-slot":"card-content","className":"flex flex-col gap-3 p-0","children":["$","div",null,{"className":"flex flex-col divide-y-2 divide-dashed","children":[["$","$L3","137",{"href":"/blog/137","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"137"}],["$","time",null,{"dateTime":"2137-07-13","className":"text-sm opacity-60 whitespace-nowrap","children":"13 Temmuz 2137"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"sürekli gördüğüm bu sayı hakkında topladığım bilgiler"}],"$undefined"]}],["$","$L3","26-subat-2026",{"href":"/blog/26-subat-2026","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"boiler room\""}],["$","time",null,{"dateTime":"2026-02-26","className":"text-sm opacity-60 whitespace-nowrap","children":"26 Şubat 2026"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"metro tünelleri karanlık, ıslak, nemli"}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}],["$","$L3","17-aralik-2025",{"href":"/blog/17-aralik-2025","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"karbon\""}],["$","time",null,{"dateTime":"2025-12-17","className":"text-sm opacity-60 whitespace-nowrap","children":"17 Aralık 2025"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"metrodayım, yanlış durakta inmişim, geri dönebilmek için uğraşıp duruyorum."}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}],["$","$L3","07-aralik-2025",{"href":"/blog/07-aralik-2025","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"tünel\""}],["$","time",null,{"dateTime":"2025-12-07","className":"text-sm opacity-60 whitespace-nowrap","children":"07 Aralık 2025"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum"}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}]}],"$Lc"]}]}],["$Ld","$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z2IYJ9aqwQFiKeOtOu-Cm"}
-4:["$","$L3","27-ekim-2025",{"href":"/blog/27-ekim-2025","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"technopat\""}],["$","time",null,{"dateTime":"2025-10-27","className":"text-sm opacity-60 whitespace-nowrap","children":"27 Ekim 2025"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"technopat'tan herkese merhaba arkadaşlar, ben recep baltaş"}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}]
-5:["$","$L3","01-nisan-2022",{"href":"/blog/01-nisan-2022","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"antichrist\""}],["$","time",null,{"dateTime":"2022-04-01","className":"text-sm opacity-60 whitespace-nowrap","children":"01 Nisan 2022"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"evil bir bebeğim, emin emeklemelerle evil planımı gerçekleştiriyorum"}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}]
-6:["$","$L3","23-mart-2022",{"href":"/blog/23-mart-2022","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"loveletter\""}],["$","time",null,{"dateTime":"2022-03-23","className":"text-sm opacity-60 whitespace-nowrap","children":"23 Mart 2022"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum"}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}]
-7:["$","$L3","27-nisan-2021",{"href":"/blog/27-nisan-2021","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"gore\""}],["$","time",null,{"dateTime":"2021-04-27","className":"text-sm opacity-60 whitespace-nowrap","children":"27 Nisan 2021"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"bir adam bana elimi ve kolumu nasıl yenileyebileceğini anlatıyor."}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}]
-8:["$","$L3","24-nisan-2021",{"href":"/blog/24-nisan-2021","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"ölüm\""}],["$","time",null,{"dateTime":"2021-04-24","className":"text-sm opacity-60 whitespace-nowrap","children":"24 Nisan 2021"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"anaokulundayım. her yer rengarenk oyuncaklarla, akvaryumlarla dolu."}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}]
-9:["$","$L3","24-mart-2021",{"href":"/blog/24-mart-2021","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"\"livestream\""}],["$","time",null,{"dateTime":"2021-03-24","className":"text-sm opacity-60 whitespace-nowrap","children":"24 Mart 2021"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"yayında bir bebek var, onu izliyorum ama ben, ben değilim, yayındaki bebeğim."}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}]
-a:["$","$L3","misc-dreams",{"href":"/blog/misc-dreams","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"bazı diğer rüyalar"}],["$","time",null,{"dateTime":"2021-01-01","className":"text-sm opacity-60 whitespace-nowrap","children":"01 Ocak 2021"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"kısa rüyalar, rüyamsılar, neredeyse rüyalar"}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","dream-log",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","dream-log"]}]]}]]}]
-b:["$","$L3","test",{"href":"/blog/test","className":"group block p-4 transition-colors hover:bg-foreground hover:text-background","children":[["$","div",null,{"className":"flex items-baseline justify-between flex-wrap","children":[["$","h2",null,{"className":"text-lg font-bold","children":"Penguenler 🐧"}],["$","time",null,{"dateTime":"0001-01-01","className":"text-sm opacity-60 whitespace-nowrap","children":"01 Ocak 1"}]]}],["$","p",null,{"className":"mt-2 text-sm opacity-80","children":"Bu sayfada markdown çalışıyor mu diye test ediyorum"}],["$","div",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","span","test",{"data-slot":"badge","className":"inline-flex items-center justify-center border-2 px-2 py-[2px] font-medium text-foreground whitespace-nowrap shrink-0 transition-colors focus-visible:outline-2 focus-visible:outline-foreground rounded-none border-current bg-transparent text-xs opacity-70 group-hover:text-background group-hover:border-background","children":["#","test"]}]]}]]}]
-c:["$","div",null,{"data-slot":"card-footer","className":"flex items-center gap-2 border-t-[3px] border-foreground pt-3"}]
-d:["$","script","script-0",{"src":"/_next/static/chunks/1ifoyhwahlc0s.js","async":true}]
-e:["$","script","script-1",{"src":"/_next/static/chunks/2l9vl-arqyrt5.js","async":true}]
-f:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
-12:null
+2:I[3803,["/_next/static/chunks/2wx_0fj_nwi17.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0vhaioip8ogtz.js","/_next/static/chunks/3pe2f9eq0jcv0.js"],"SlabTemplate"]
+3:"$Sreact.suspense"
+4:I[82046,["/_next/static/chunks/2wx_0fj_nwi17.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0vhaioip8ogtz.js","/_next/static/chunks/3pe2f9eq0jcv0.js"],"BlogList"]
+13:I[97367,["/_next/static/chunks/2wx_0fj_nwi17.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:Ta65,
+saatlerde, tarihlerde, sayı olan her yerde sürekli gördüğüm bu sayı hakkında ilginç bulduğum bilgileri burada toplayacağım
+
+## binary, base-2, f(x) = (2^x) - 1
+
+for x = 1, 2, 3, 4, 5...  
+f(x) = \{1, 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 8191,...\}
+
+so
+
+```
+f(1) =  1 in binary is 1
+f(2) =  3 in binary is 11
+f(3) =  7 in binary is 111
+f(4) = 15 in binary is 1111
+f(5) = 31 in binary is 11111
+f(6) = 63 in binary is 111111
+...
+f(x) is x-many 1's in binary
+```
+
+---
+
+also 137 in binary is 10001001 so it's  
+2 to the 0th,  
+2 to the 3rd and  
+2 to the 7th
+
+and 73 in binary is 1001001 so it's  
+2 to the 0th,  
+2 to the 3rd and  
+2 to the 6th, nothing special i guess
+
+## 357686312646216567629137
+
+is the largest proven left truncatable prime number  
+which means;
+
+- 357686312646216567629137 is a prime
+- 57686312646216567629137 is a prime
+- 7686312646216567629137 is a prime
+- 686312646216567629137 is a prime
+- 86312646216567629137 is a prime
+- 6312646216567629137 is a prime
+- 312646216567629137 is a prime
+- 12646216567629137 is a prime
+- 2646216567629137 is a prime
+- 646216567629137 is a prime
+- 46216567629137 is a prime
+- 6216567629137 is a prime
+- 216567629137 is a prime
+- 16567629137 is a prime
+- 6567629137 is a prime
+- 567629137 is a prime
+- 67629137 is a prime
+- 7629137 is a prime
+- 629137 is a prime
+- 29137 is a prime
+- 9137 is a prime
+- 137 is a prime
+- 37 is a prime
+- 7 is a prime
+
+## 137, 37 and 73
+
+- 137 is the 33rd prime
+- 37 is the 12th prime
+- 73 is the 21st prime
+
+---
+
+- 37 is the reverse of 73
+- 12 is the reverse of 21
+- and 21 + 12 = 33
+
+also both 37, 73 and 137 are pythogorean primes  
+since they fit the formula 4n+1 or
+
+```
+4 *  9 + 1 =  37
+4 * 18 + 1 =  73
+4 * 34 + 1 = 137
+```
+
+which means it can be written as sum of two squares, thus
+
+```
+ 6^2 + 1^2 =  36 +  1 =  37
+ 8^2 + 3^2 =  64 +  9 =  73
+11^2 + 4^2 = 121 + 16 = 137
+```
+
+## the fine-structure constant (ɑ = ~ 1/137)
+
+i'm lazy look it up.  
+look up the carl jung and pauli stuff as well.  
+and maybe kabbala and gematria too while you're at it.
+
+## 1/137 and 1/73
+
+1/137 is 0.0072992700729927...  
+where 00729927 is the repeating sequence  
+notice how if we multilply it by 10000,  
+it is 72.9927 which is almost 73
+
+---
+
+1/73 is 0.01369863013...  
+where 01369863 is the repeating sequence  
+notice how if we multilply it by 10000,  
+it is 136.9863 which is almost 137
+
+## 137 \* 73 = 10001
+
+which is nice because if take any 4 digit number  
+like 1234 and multiply it by 137 \* 73 or 10001  
+it will give you 12341234
+
+## email me
+
+if you have more of this stuff,<br/>you can email me at [ivmelenen@gmail.com](mailto:ivmelenen@gmail.com)
+6:T53c,
+metrodayım,  
+yanlış durakta inmişim,  
+geri dönebilmek için uğraşıp duruyorum.
+
+bir metro geliyor,  
+iki taraftaki kapıları da açılıyor.  
+birkaç kişi daha benimle.  
+içeri giriyoruz, ilerliyorum.  
+"kapılar kapanacak" anonsu geldikten sonra arkamdakiler karşı platforma geçmemiz gerektiğini  
+yani inmemiz gerektiğini söylüyor.  
+koşup karşı taraftaki kapıdan iniyoruz.
+
+birkaç durak ileri,  
+birkaç durak geri şeklinde devam ediyor rüya.
+
+---
+
+biriyle kimya mühendisleri hakkında tartışıyoruz.  
+karşımdaki "karbonla uğraşanlar yıllarca aynı şeylerle uğraşıp duruyor sonra da 'kömür yanıyormuş' gibi bir sonuca varıyorlar" diyor.  
+ben de sadece karbonla uğraşan kimya mühendisleri yeterli, diğerleri boşuna uğraşıyor falan diyorum.
+
+sonra rüyamda hayal ediyorum, ufak bir cutscene giriyor.
+
+biri, bir kimya mühendisine çok keskin bir şey lazım olduğunu söylüyor.  
+kimya mühendisi karbon dikdörtgen prizma çıkarıp zımparalamaya başlıyor. 4-5 kere ileri geri yaptıktan sonra ucunun tek karbon atomu keskinliğinde olduğunu söylüyor.  
+sonra çok iletken bir şey lazım olduğunu söylüyor.  
+kimya mühendisi, a4 boyutunda bir yaprak karbon çıkarıyor. kağıt gibi katlayıp bir şeyler yapıyor, eliyle sürterek ısıtıyor falan sonra oldu diyor.
+7:T5dc,
+"technopat'tan herkese merhaba arkadaşlar, ben recep baltaş"
+
+rüyamda ali güngör'le dosttum.  
+ama recep baltaş'la kavgalıydım,  
+yıllardır kavgalıymışız.  
+yıllar önce ben ona kötü davranmışım, bir türlü affetmiyormuş.
+
+recep baltaş kapağında matrix olan dergimi istiyor.  
+dergide tool'un bir şarkısının tabları varmış,  
+bas gitarla çalabilmek için istiyormuş.  
+derginin üstünde "manyak" gibi bir şey yazıyordu.  
+(böyle bir dergi sanırım zaten var ama o değil)
+
+"ben de ali güngör"
+
+dergimi veriyorum,  
+alıp yırtıyor,  
+yırtınca rüyada ağlıyorum.
+
+çünkü o dergiyi bir daha arasam da bulamam  
+çünkü bu hayali dergi 2010'larda birkaç sayı çıkıp durmuş bir dergiymiş  
+ve sanırım bir karikatür dergisinin yan dergisi veya mini dergisi falanmış.
+
+---
+
+(rüyanın başka bölümü)
+
+scooter sürdüğümü hatırlıyorum.  
+annem scooterımı satacaktı rüyada.  
+bi şey için bir yere gitmem gerekiyordu.  
+scooterla gidiyorum, bir yandan da scooter'ı satmasını engellemiş oluyordum kullanarak.
+
+yolda kediyle uğraşan bir orospu çocuğu vardı,  
+scooterı kafasına geçiriyorum  
+ama bi şey olmuyor.  
+bir daha vuruyorum olmuyor.
+
+üstüme doğru yürümeye başlıyor.  
+bir kere daha vuruyorum ve yere yığılıyor.  
+kediyle uğraşan birkaç kişi daha vardı, hepsini scooterımla dövüyorum.
+
+sanırım bilinçaltım "neden scooterımı satmamalıyım" justification'ı yapmış sdhfgashdgfajsdagjsdfga
+8:T273f,
+> \> "faşizm yapmak"
+
+listeye eklendin
+
+> \> "bizim bilmem ne"
+
+listelendin
+
+> \> "sınıfs-", "ulusların k-"
+
+artık listedesiniz
+
+> \> "devlet"
+
+listelendin
+
+> \> "ı" (i yerine ı yazmak), "î"
+
+listelendin
+
+> \> "teoman", "pelin batu", "athena gökhan", "haluk bilginer"
+
+listelendin
+
+---
+
+> \> "aşırı sağ"
+
+listeye eklendin
+
+> \> "kesişims-"
+
+listelendin
+
+> \> "vallahi x'ten razıyız"
+
+artık listedesiniz
+
+> \> gozluk + top sakal
+
+listelendin
+
+> \> "sadece 28dk geç kaldığı için sınava alınma-"
+
+listelendin
+
+> \> "liberteryen", "entegre", "sol", "sağ", "sosyal", "piyasa"
+
+listelendin
+
+---
+
+> \> "okuma yapmak"
+
+listeye merhaba de
+
+> \> "hegemonya"
+
+listelendin
+
+> \> "hakikat", "ibretlik"
+
+artık listedesiniz
+
+> \> "bilmem ne'nin ürünü"
+
+listeye
+
+> \> "jeopol-"
+
+listedesin
+
+> \> "hukuken"
+
+listelendiniz
+
+> \> "güç dinamiği", "deli gömleği", "etki alanı"
+
+listelendiniz
+
+> \> "partizan"
+
+listelendiniz
+
+---
+
+> \> "başkan bu direkt seks yav"
+
+listelendin ve hayır değil
+
+> \> "seks yapmak için son çare x yapmak"
+
+listelendin
+
+> \> "x'in zekatını versem/verseler"
+
+listelendin
+
+> \> "bu hesabın sahibi"
+
+artık listede
+
+> \> "@grok bu doğrumu?"
+
+listedeki arkadaşlarına sor
+
+> \> "araştırmacı", "phd"
+
+listelendin
+
+---
+
+> \> "bantmag", "melikşah altuntaş", "caner özyurtlu"
+
+listelendin
+
+> \> "sadi güran", "selver", "tuluğ", "umarım annem dinlemez"
+
+listelendin
+
+> \> "küçük ev ablukada", "jakuzi"
+
+listelendin
+
+> \> sergi/etkinlik-barlar (mesela "karga")
+
+listelendin
+
+> \> "roxy", "pixie underground"
+
+listelendin
+
+---
+
+> \> "danssız devrim olmaz", "aşık olunmadan devrimci olunmaz"...
+
+sensiz liste olmaz
+
+> \> "şehirlere bombalar yağardı her gece"
+
+durmadan listelenirdin
+
+> \> "revolution will not be televised"
+
+televizyon mu kaldı amk listelendin
+
+> \> "biz x ülkesiyiz"
+
+— bir listelendin cumhuriyeti vatandaşı
+
+---
+
+> \> tatlının yanına bir de tatlı kahve söylemek, tatlı bağımlılığı
+
+listelendin
+
+> \> sürekli bir kitap alıntısı, şiir, söz vs paylaşmak, cursive fontlu post atmak
+
+listelendin
+
+> \> sürekli kahve tonları giyinmek
+
+listelendin
+
+> \> yuvarlak çerçeve gözlük, "komik" çorap
+
+listelendin
+
+---
+
+> \> avukat, "Av.", hukuk, "hukuk", "adalet"
+
+listelendin
+
+> \> "danışıklı dövüş"
+
+listelendin
+
+> \> "şu şekilde takılıyor amk"  
+> \> "amk", "aq", "aw"  
+> \> "\{bilmem ne\} yaparız mesela"  
+> \> "lan yoksa", "lan bu", "lan"
+
+listelendin
+
+---
+
+[twitin](https://x.com/Cavirkirmayan/status/1936010392490082513) ment/quotelarında
+
+> \> "egeliler sadece ot yer"
+
+> \> "hayır gerçek egeliler et yer"
+
+diye analiz kasanlar
+
+> \> "egeliler yoğurtsuz yemek mi yiyorlarmış"
+
+> \> "egeden et yemeği yenmez"
+
+ve diğer
+ege karşıtı söylemde bulunan ege haterları
+
+hepiniz listelendiniz
+
+---
+
+> \> Brachydactyly type D (murderer's thumb)
+
+listelendin
+
+> \> dışa dönük göbek deliği
+
+listelendin
+
+> \> dilini üçe katlayabilme yeteneği
+
+listelendin
+
+> \> harita dil
+
+listelendin
+
+> \> yapışık kulak kepçesi
+
+listelendin
+
+> \> submucosal cleft palate
+
+listelendin
+
+---
+
+> \> "matcha bekareti", match içmek
+
+listelendin
+
+> \> "soy babadan"
+
+listelendin
+
+> \> brat yazı tipli possession  
+> \> emoji resimlerini kullanmak  
+> \> "⋆˖ ࣪⭑" gibi çok fazla ışıltılı sembol kullanmak  
+> \> "꧁☆nicknaz☆꧂@nicksu111"  
+> \> "ami gotu dagittik", "selam ya"  
+> \> selinsu-enes  
+> \> antifa
+
+listelendin
+
+---
+
+> \> yüzme bilmemek
+
+listelendin
+
+> \> küfür etmeden hemen önce (tek f ile) "afedersiniz" demek
+
+listelendin
+
+> \> arka arkaya çıkmış iphone modellerini ayırt edebilmek,  
+> \> aynı modelin cort pro max versiyonunun falan hepsinin farklarını bilmek
+
+listelendin
+
+---
+
+> \> "reeldir, 5 dk'ya silinecektir"
+
+bilgisayarımdan da silebilecek misiniz fotolarınızı?
+
+> \> breaking news stickerları
+
+kurtarabilecek mi anonluğunuzu?
+
+hayır,  
+"reel" klasörümün  
+3 farklı bulutta dijital  
+ve 2 farklı adreste fiziksel yedeklerini tutuyorum.
+
+mcafee'den ders.
+
+ve hayır,  
+breaking news stickerlarının arkasını zihnimde simüle edebiliyorum.  
+ya da ai ile.
+
+kurduğum botnet,  
+otomatik olarak "reeldir" yazan twitleri indiriyor.  
+yazıcıdan kopyasını çıkarıp günlüğüme yapıştırdım bile.
+
+her yerden silseniz de  
+sonsuza kadar zihnimde  
+ve listede.
+
+---
+
+> \> el fanı
+
+listelendin
+
+bu itemle ilk kez bir final haftası karşılaştım.  
+sınav salonununda fanı bir lardass'in elinde gördüğüm an dünyam yıkıldı.  
+savaşılan tüm savaşlar boşunaydı.  
+milyonlar ölmüştü, anlaşmalar imzalanmıştı.  
+fakat bir tek lardass kazanmıştı.  
+her şey onun içindi.
+
+---
+
+[fotoğraftaki](https://x.com/ivmelenen/status/1969351505359630694);
+
+> \> gülüş, burun ve burnun yanındaki kırışıklıklar, ağız yapısı, dudaklar, yanaklar  
+> \> sakal şekli ve rengi, bıyık şekli ve rengi  
+> \> ölü ten rengi
+
+listelendin
+
+---
+
+> \> "kardeş"  
+> \> "kardeşi"  
+> \> "kardeşimiz"  
+> \> "kardeşlerimiz"
+
+listelendin
+
+> \> "gayrimüslim"  
+> \> "müslüman olmayan"  
+> \> "Türksüz bir"  
+> \> "-sız bir Türklük"  
+> \> "kaderine perçinlendiği"
+
+listelendin
+
+> \> "muhsin yazıcıoğlu", "yazıcıoğlu"  
+> \> "yavuz ağıralioğlu"  
+> \> "anahtar parti", "bbp"
+
+listelendin
+
+---
+
+> \> “pijamalı hasta yağız şoföre çabucak güvendi.”
+
+ve
+
+> \> “afgan dövüşçü ebuhaciz psikoloji eğitimi alıyor.„
+
+bu iki örnekteki tırnak işaretlerine bakın,  
+(“”) ve (“„)  
+ikisi de çok tatlı duruyor bence,  
+ikisini de seviyorum.  
+sorun yok.
+
+> \> «açgözlü ve hoşnut, prestije feci bağımlıydık.»
+
+birkaç kere de bunun («») kullanıldığına da şahit oldum ve bu ne kadar iğrenç olsa da kendimde bunu görmezden gelebilecek gücü her seferinde bulabildim, bulabiliyorum.  
+görmezden gelinebilinir.
+
+sanırım bu ilk örnekteki (“”) en güzel gözüken tırnak işareti ama klavyede yapmak zor olduğundan normalde ("") kullanıyorum.  
+belki telefondayken (“”) kullanabilirim,  
+sıkıntı yok.
+
+ancak bazıları bunları şu şekilde kullanıyor;
+
+> \> ”jübile, hepsi eğitim gönüllüleri vakfı içindi, coşuyoruz.“
+
+veya
+
+> \> „kıl şoför çocuğun gaz, vites, debriyajı müphem.“
+
+fark ettiyseniz (“kelime”) şeklinde değil,  
+(”kelime“) şeklinde kullanıyorlar.  
+ya benim bilmediğim bir şey mi var?  
+ya niye böyle ters kullanıyorsunuz?  
+tırnakların içi quote'un içine bakmamalı mı?  
+normalde bu böyle kullanılıyor da benim mi haberim yok?  
+yoksa kendimi öldürmemi mi istiyorsunuz, ha?  
+illa kendimi mi öldüreyim?  
+görmüyor musun tırnağın nereye baktığını?  
+yoksa görüyorsunuz ama benden nefret ettiğiniz için mi ters koyuyorsunuz?  
+illa ağzıma tüfek mi sokayım?  
+bunu mu istiyorsunuz?  
+niye hayatı bana dar ediyorsunuz?  
+illa tetiği mi çekeyim?  
+ben size ne yaptım?  
+tek istediğim bir şeyler okumaktı ve gördüğüm şey bu
+
+> \> ”fütursuz kaçığa göre japon şemsiyeleri bedava, hacı!“
+
+başka çare bırakmıyorsunuz,  
+hayattan alabileceğim tüm potansiyel zevki zaten söküp aldınız,  
+hayatımı mahvettiniz.
+
+diye düşünüyordum...
+
+ta ki
+
+> \> nokta işaretlerinden önce boşluk
+
+ile karşılaşana kadar.
+
+ilk kez gördüğüm gün dizlerimin üstüne çöktüm,  
+hem dizlerimin, hem algımın bağı çözüldü.  
+kelimeler anlamını yitirmişti,  
+yazıdaki hiçbir şey artık anlam ifade etmiyordu.  
+tek görebildiğim şey o noktaydı
+
+.
+
+tüm o boşluğun arasından bana bakıyordu,  
+benden yardım istiyordu,  
+bana sesleniyordu,  
+"neden benden önce boşluk bırakmalarına izin verdin ivmelenen? neden?"  
+bağırışları tüm o iki boşluk arasında yankılanıp duruyordu.
+
+> \> “kelime kelime kelime . kelime, kelime kelime.”
+
+o noktanın aynı benim gibi yalnızdı o an.  
+niye o noktadan önce boşluk vardı?
+
+> \> “bu vakıf koleji hep güçsüz , öğrenci yetişmedi.”
+
+niye o virgülü yalnız bıraktınız?  
+niye?  
+hiç mi utanmanız yok?  
+hiç mi üzülmüyorsunuz?  
+nasıl yaparsınız bunu, ha nasıl?  
+orospu çocukları
+
+"oraya o boşluğu sokan düşmanına ne sokmaz" diye uzun süre düşündükten sonra boşluğun şeyin olmaması olduğunu düşündüm sonra da kesin freud bunun cinsellikle biri ilgisi var zart zurt der, üstüne bir de bu kişilerin fallik uzuvlarını kulağa, buruna, oraya, buraya falan ne kadar çok sokmak istediklerini falan anlatırdı diye düşündüm ve noktalama işaretlerinden önce boşluk bırakan kişilerden korktuğum sonucuna ulaştım.
+
+hepiniz listelendiniz .
+
+---
+
+@.uzmanlar_disari asked: "İki nokta hakkında ne düşünüyorsun? Tam gerçek ekslüsif listeler iki nokta için rezerve edilmiştir."
+
+hangi iki nokta?
+
+a) iki nokta üst üste (:)  
+"bilmem ne 2: electric boogaloo"  
+bu işaret gayet normal, sorun yok
+
+b) iki nokta yan yana (..)  
+"ezik biri olmamla ilgili yazı, oç edebiyatı, piç edebiyatı bilmem ne.."  
+öncelikle bu işareti kimler, neden, nasıl, hangi duyguyu aktarmak için kullanıyor bilmiyorum
+
+ama kesinlikle listelendiler.
+
+genellikle ühü ühü edebiyatı, arabesk ühü ühü edebiyatı veya "ben weirdoyum, eziğim, oçum, piçim" edebiyatının sonuna ekleniyor bu işaret. sanırım nokta için çok duygusal ama üç nokta için yeterli suspense olmadığı için iki noktayı seçiyorlar. umarım bu kişiler çok acı biber yediklerini unutup tükürerek 31 çeker..
+
+---
+
+> \> "onurlu"
+
+listelendin
+
+> \> "insan gibi yaşamak"
+
+listelendin
+
+> \> "insan olmak"
+
+listelendin
+
+> \> "haysiyet"
+
+listelendin
+
+> \> "şeref"
+
+listelendin
+
+> \> "ilkeli"
+
+listelendin
+
+---
+
+piano teacher dışındaki haneke filmleri,  
+fransıs yeni dalgası,  
+la haine,  
+naked,  
+yorgos lanthimos filmleri,  
+harmony korine filmleri,  
+the kids,  
+matrix,  
+parasite,  
+the dreamers,  
+possession,  
+trainspotting ve diğer uyuşturucuslop filmleri  
+çok sevip kişiliği haline getirmek
+
+listelendin
+
+---
+
+> \> "fransıs"
+
+listelendim
+9:T882,
+bozyakadaki,  
+çocukluğumdaki evimizdeyim.  
+annem, babam ve anneannem var.
+
+bi tartışma falan oluyor sonra  
+ben, annem ve anneannem sinemaya gitmeye karar veriyoruz.
+
+bu noktada bebeğe dönüştüğümü farkediyorum  
+emekleyerek hareket ediyorum.
+
+---
+
+gittiğimiz film bir sebeple iptal oluyor ve giremiyoruz.
+
+geri dönerken  
+filmin başrolünü bozyaka devlet hastanesinin önünde görüyorum ama orası hastane değil bir otel(?).
+
+başrol 30'lu yaşlarında.  
+otelin önünde bir kalabalık var.  
+herkes başrole bağırıyor.
+
+---
+
+emekleyerek ne olduğunu görmeye gidiyorum.  
+yanına geldiğimde yaşlanmış olarak görüyorum.  
+saçı sakalı beyazlamış  
+ve mavi takim elbise giymis.  
+yürüyerek uzaklaşmaya başlıyor.
+
+hastane/otelin bahçesinden çıkıyorum.  
+tam o anda rengi solmuş bi taksi hızla geçiyor.
+
+---
+
+bir görevimin olduğunu hissediyorum.  
+ben bir tür şeytanım.
+
+takside tüfek veya benzeri bir şey var  
+ve onu almam gerekiyor.  
+emekleyerek taksinin peşine düşüyorum.
+
+taksi hızlı olsa da  
+rüya mantığıyla sürekli bir sokak geriden  
+emekleyerek takip ediyorum.
+
+---
+
+bir sokak arasındayken  
+iki tane takim elbiseli ajan(?) görüyorum  
+ellerinde tüfek var
+
+ve kulak misafiri oluyorum  
+"biz eskiden araba yıkamazdık,  
+arabaya binip pompalıyla ateş edince toz kalmazdı"
+
+beni görüyorlar.
+
+---
+
+orada kalmamı ve beni birazdan alacaklarını söylüyorlar.
+
+kaçmam gerekiyor.  
+yanımdaki binanın çatısına tırmanıyorum.  
+oradan da camdan bir eve dalıyorum.
+
+içeride atletli, kirli sakalli,  
+televizyon izleyen ayı gibi bi adam var.  
+sesimi duyuyor.
+
+saklanıyorum.
+
+---
+
+sonra bebek olduğum aklıma geliyor  
+ve kimse bana zarar vermez diyerek çıkıyorum.
+
+adam beni eline alıyor,  
+sonra gülüyor  
+ve bana yumruk atmaya başlıyor.
+
+ben de onu küle ceviriyorum.  
+bir anda yok oluyor.
+
+camdan atlayarak evden çıkıyorum.
+
+---
+
+amacını veya ne olduğunu bilmediğim  
+evil planımı tamamlamak için  
+görev aşkıyla  
+tekrardan taksinin peşine düşüyorum.
+
+alarm çalıyor ve uyanıyorum.
+
+---
+
+[original tweet](https://x.com/ivmelenen/status/1936523517324898532)
+a:T45e,
+bir dedektifim  
+ve çok kalabalık bir caddedeyim  
+ama görevimi bilmiyorum
+
+caddede bana bakan birini farkediyorum  
+ve "yardımcım" ile kovalamaya başlıyoruz
+
+adam tam bir apartmana girerken  
+apartman kapısına tekme atıp  
+kapanmasını engelliyorum
+
+içeride her yer mermer  
+kovaladığımız adamla kavga ediyoruz  
+yanına biri daha geliyor  
+ve bıçak çekiyorlar
+
+ama bıçakların ucu çok küçük  
+(falçata gibi ama falç değil,  
+sanki bıçak sadece çizik atmak için yapılmış gibi)
+
+> uykuyla falçata yazmışım,  
+> daha çok neşter/hobi bıçağı gibiydi
+
+bir süre sonra  
+bir şekilde bıçak bana geçiyor  
+ve "durun" diyorum
+
+herkes duruyor
+
+herkesin yüzünü inceliyorum  
+ve sanki herkes bir çizgifilmde kedi saldırısından çıkmış gibi gözüküyor  
+gerçekçi
+
+çok fazla yara izi var  
+ama kan yok
+
+şüpheli adamın elinde tahta bir kutu var  
+bana vermesini söylüyorum
+
+ve içinden üzerinde **"love letter"** yazan bir anahtar çıkıyor
+
+nereyi açtığını anlamadan uyanıyorum
+
+---
+
+[original tweet](https://x.com/ivmelenen/status/1934675019868578125)
+b:T6e0,
+## PART 1
+
+anaokulundayım.  
+her yer rengarenk oyuncaklarla, akvaryumlarla dolu.
+
+bir terslik var.
+
+rüyada olduğumu farkediyorum.  
+çok heyecanlanıyorum ama uyanmıyorum.  
+herkese "rüyada mıyız?" diye soruyorum.
+
+"rüyadayım lan" dediğimi hatırlıyorum.  
+rüyada olduğumu anladıktan sonra her şey erimeye başlıyor,  
+herkes eriyor.
+
+## PART ?
+
+gece  
+bir yattayım.
+
+> bu bölüm kronolojik olarak nerede olmalı emin değilim, çok fazla bir şey de hatırlamıyorum
+
+## PART 3
+
+birkaç kişi  
+boş, toprak bir yolda yürüyoruz.
+
+bir araba kaza yapmış.  
+önünde bir polis arabası var.  
+içinden bir polis çıkıyor  
+ve silahıyla arabaya koşuyor  
+ama hemen vuruluyor.
+
+kaza yapan arabadaki adam çıkıyor  
+ve her yere ates ediyor.
+
+## PART 4
+
+bir okul ya da hastanede olduğumu hatırlıyorum.
+
+oradan çıktıktan sonra  
+arka arkaya bir sürü bank olan  
+bahçe gibi bir yere geliyorum
+
+ve oturup bekliyorum.
+
+yan bankta hasta bir kadın var.  
+bu durak/bekleme yerine(?) benzeyen bahçede  
+her şey mükemmel.
+
+yan bankta oturan kadın bana sorular soruyor.  
+"şimdi ne yapacaksın?"  
+"ne planların var?"  
+"kaç yaşına kadar yaşamayı planlıyorsun?"
+
+içimden bir ses öldüğümü söylüyor.
+
+kadın "ölmek için ne zaman uygun?" diye soruyor.
+
+içimden gelen ses haklı  
+ben öldüm  
+burası bir durak
+
+"sonuna kadar yaşamak gereksiz" diye cevaplıyorum.  
+"belli bir noktadan sonra yaşamak ev işine dönüşüyor"
+
+> ek: sabah kalktığımda uzun süre düşündüm
+> my theory is
+> part 3'teki kişi beni de öldürüyor
+> ve önce hastaneye
+> sonra durak/bahçeye gidiyorum
+> which is afterlife öncesi limbomsu bir yer
+
+---
+
+[original tweet](https://twitter.com/ivmelenen/status/1935093755175952786)
+c:T5a1,
+ekranda  
+hideo kojimaya benzeyen  
+canlı yayın yapan  
+uyuyakalmış  
+biri var
+
+kamera kot pantolonunu gösteriyor
+
+pc'sini kontrol edebildiğimi fark ediyorum
+
+karşı tarafta  
+yayının yapıldığı yerde  
+bir bebek var
+
+ona looney tunes açmaya çalışıyorum
+
+---
+
+sonra bir şekilde  
+bebeğin yerine geçiyorum  
+ama bebek değil bir çocuk olarak
+
+ve o ailenin üyesiymiş gibi davranıyorum
+
+elimde çikolatalı süt var  
+"ablam" geliyor
+
+bana hediye almış, onu gösteriyor  
+hediyeyi açıyorum  
+içinden son yudumu kalmış çikolatalı süt çıkıyor
+
+anlamıyorum
+
+---
+
+"annem" geliyor  
+ herkes konuşuyor
+
+"annem",  
+neredeyse bitmiş çikolatalı sütün  
+ne kadar privileged bir ailede olduğumuzla ilgili metafor olduğunu söylüyor
+
+sonra dolaptan benzin kutusunda süt çıkarıyor  
+ve benzinin de bir şeyin(?) metaforu olduğunu söylüyor
+
+larp'a karşı çıkıyorum
+
+---
+
+benzin kendini tüketmek,  
+çürümek, yanmak vs diyorum
+
+sonra tam burada  
+bebek olan ben değil  
+gerçek ben  
+"normalde bu noktada kavga çıkması gerekiyordu"  
+diye düşünüyor
+
+---
+
+çünkü rüyalarımda biriyle ters düşününce  
+genelde rage atıyorlar
+
+> ve rüyada olduğumu anlıyorum
+> ama hemen uyanıyorum
+
+//"rüyadaki karakterlerin yüzlerini hatırlıyorum ve hepsi yabancı"
+diye not düşmüşüm ama hatırlamıyorum artık
+
+---
+
+[original tweet](https://x.com/ivmelenen/status/1935445859572814216)
+d:T659,
+## "palmiye avm"
+
+(ben küçükken)
+
+hatırladığım en eski rüyam palmiye avm'nin süs havuzuna inen asansöründeydi.  
+daha yüzme bilmediğim için korkuyordum.  
+asansörün altındaki camla beraber düşüyorduk annemlerle.
+
+ve  
+palmiye hep boştu.  
+batmış gibiydi, kimse yoktu, bu da beni ürpertiyordu.
+
+bi ara bestbuy vardı o zaman birkaç kere gitmiştim.  
+o zaman da boştu.
+
+birkaç kere de ıslak hamburger ve bowling için.  
+o zaman da boştu.
+
+daha da küçükken nuh'un gemisi için.  
+herhalde o zaman da boştu.
+
+## "hypnagogic hallucinations"
+
+(yks zamanı/çok yorgunken)
+
+yks döneminde gözümü kapatır kapatmaz gördüğüm aynı 2 rüya vardı;
+
+> sürekli açıp kapanan çiçekler  
+> birbirine morph eden çıplak kadınlar
+
+bu hafta stajda yeniden başladı.  
+gördüklerim;
+
+> izban ya da metro'dayım  
+> gün batımı sahildeyim
+
+## "kondom"
+
+yurt-avm kompleksi veya yerleşke(?) gibi bir yerdeyim.  
+bir kız var,  
+sanırım sevgilim falan,  
+ve kondom gerekiyor  
+ama yok.  
+odadan dışarı çıkıp her yerde arıyoruz ama yok.  
+avm'lerdeki parfüm dispenserları gibi şeyler var,  
+onlara bakıyoruz.  
+yok.  
+bir türlü bulamıyoruz.  
+uyanıyorum,  
+günüm mahvoldu.
+
+## "peg solitaire"
+
+(az önce kestirirken)
+
+rüyamda nasıl solo test oynadığımı anlatıyorum(?)  
+önce tek tek 4 kenarı temizliyorum falan
+
+teyzem, in a judging tone, diyor ki "ama öyle olmaz, şu patternı 4 kere 90° çevirip yapacaksın, yoksa 1 kalmaz, kalsa bile ortada olmaz"
+
+o çözümü bildiğimi ama ezberlersem hep 1 taş kalacağından oyunun anlamsızlaşacağını söylüyorum
+e:T1807,
+> bu sayfa test amaçlı, yazılar da AI
+
+# Penguenler (Spheniscidae)
+
+Penguenler, uçamayan ama **mükemmel yüzücüler** olan deniz kuşlarıdır.  
+Yaklaşık 18 türü vardır ve çoğu Antarktika ve çevresindeki adalarda yaşar.  
+Penguenler, sert iklim koşullarına adapte olmuş, sosyal ve ilginç davranışlara sahip canlılardır.
+
+---
+
+## İçindekiler
+
+- [Penguenler (Spheniscidae)](#-penguenler-spheniscidae)
+  - [İçindekiler](#-içindekiler)
+  - [Tanım ve Sınıflandırma](#-tanım-ve-sınıflandırma)
+  - [Türler](#-türler)
+    - [Emperor Penguin (Aptenodytes forsteri)](#emperor-penguin-aptenodytes-forsteri)
+    - [King Penguin](#king-penguin)
+    - [Adelie Penguin](#adelie-penguin)
+    - [Little Blue (Fairy) Penguin](#little-blue-fairy-penguin)
+  - [Yaşam Alanı](#-yaşam-alanı)
+  - [Fiziksel Özellikler](#-fiziksel-özellikler)
+  - [Davranış ve Beslenme](#-davranış-ve-beslenme)
+  - [İnsanlarla Etkileşim](#-insanlarla-etkileşim)
+  - [İlginç Bilgiler](#-ilginç-bilgiler)
+  - [Tablolar](#-tablolar)
+  - [Kod Örneği: Penguen Durumu](#-kod-örneği-penguen-durumu)
+  - [Canlı React Denemesi: Penguen Sayacı](#-canlı-react-denemesi-penguen-sayacı)
+  - [Spoiler Örneği](#-spoiler-örneği)
+  - [Footnotes](#footnotes)
+
+---
+
+## Tanım ve Sınıflandırma
+
+**Bilimsel Sınıflandırma:**
+
+| Seviye  | Bilgi           |
+| :------ | :-------------- |
+| Krallık | Animalia        |
+| Şube    | Chordata        |
+| Sınıf   | Aves            |
+| Takım   | Sphenisciformes |
+| Aile    | Spheniscidae    |
+
+> Not: Penguenler `penguin.fly = false` olarak tanımlanabilir, ama yüzme konusunda uzmanlaşmıştır. 🏊‍♂️
+
+---
+
+## Türler
+
+Penguenler, boyut, renk ve yaşam alanına göre çeşitlenir:
+
+### Emperor Penguin (Aptenodytes forsteri)
+
+- Boy: 1.2 m
+- Ağırlık: 22–45 kg
+- Yaşam Alanı: Antarktika
+- Özellikler: Dünyanın en büyük pengueni, buzda yuva yapar.
+
+### King Penguin
+
+- Boy: 0.9–1.1 m
+- Ağırlık: 11–16 kg
+- Yaşam Alanı: Falkland Adaları, Güney Georgia
+- Özellikler: Renkli boyun halkaları ile dikkat çeker.
+
+### Adelie Penguin
+
+- Boy: 70 cm
+- Ağırlık: 4–5 kg
+- Yaşam Alanı: Antarktika kıyıları
+- Özellikler: Küçük, hızlı yüzücü, koloniler halinde yaşar.
+
+### Little Blue (Fairy) Penguin
+
+- Boy: 33 cm
+- Ağırlık: 1–1.5 kg
+- Yaşam Alanı: Avustralya ve Yeni Zelanda
+- Özellikler: Dünyanın en küçük pengueni 💙
+
+> Nested list example:
+>
+> - Penguenler
+>   - Uçamaz
+>   - İyi yüzücüdür
+>     - Suda saatte 36 km hıza ulaşabilir ⚡
+
+---
+
+## Yaşam Alanı
+
+Penguenler çoğunlukla **Antarktika ve çevresindeki adalarda** yaşar.  
+Bazı türler Güney Afrika, Avustralya, Yeni Zelanda ve Güney Amerika kıyılarında bulunur.
+
+- Soğuk iklim adaptasyonu ❄️
+- Toplu halde yaşam: Isı kaybını önler
+- Suda beslenir: Balık, kalamar, krill
+
+---
+
+## Fiziksel Özellikler
+
+- Tüyler: Su geçirmez ve yoğun
+- Kanatlar: Yüzme için evrimleşmiş
+- Ayaklar: Palet şeklinde, suda yön kontrolü sağlar
+- Renkler: Genellikle siyah-beyaz, bazı türlerde parlak sarı veya turuncu detaylar
+
+ASCII Art örneği:
+
+```
+The following penguins are by
+Axel Poque aka apx
+
+penguins standing:
+  _       _              _
+_{v}_    (v)     ('>    ( )
+ /-\    //-\\    /V\   // \\
+(\_/)   (\_/)   <(_)   (\=/)
+ ^ ^     ^ ^      ~~    ~ ~
+
+
+penguins walking:
+                         _      _
+ <`)     <`)     <`)    (v)    (v)
+ /V\     /V\     /V\   //-\\  //-\\
+\(_)>  \<\_)>  \< _/>  (u_/)  (\_u)
+ ~~      ~~      ~~       ^    ^
+
+
+penguins looking about:
+  _           _
+ (v)   ('>   ( )
+ /V\   /V\   /V\
+ (_)>  (_)>  (_)>
+ ~~    ~~    ~~
+
+
+penguins sitting:
+           _              _
+   <`)    (v)    ('>     ( )
+   (V)   //_\\   (V)    //_\\
+ ]/__)>  (U_U)  <(__\[  (\=/)
+
+
+more penguins:
+         _
+ ('<    (o)     _
+ /V\   //-\\   (.)-=_      /__ /\
+<(_)   (\_/)    V \ _)>   ](__=_`)
+  ~~    ~ ~     ~  ~~
+
+
+sumo penguin:
+   _
+ ('v')
+//-=-\\
+(\_=_/)
+ ^^ ^^
+
+
+
+
+
+far-off penguin:
+
+_o_
+(^)
+ ~
+```
+
+---
+
+## Davranış ve Beslenme
+
+1. **Beslenme:** Balık, krill, kalamar
+2. **Yüzme:** Harika dalgıçlar, suyun altında uzun süre kalabilir
+3. **Göç:** Bazı türler mevsimsel göç yapar
+4. **Koloni:** Hayatta kalmak için sıkı sosyal yapılar kurarlar
+
+---
+
+## İnsanlarla Etkileşim
+
+- Turizm: Penguen gözlem turları
+- Koruma projeleri: Nesli tehlike altında olan türler
+- Eğitim: Penguenler okul kitaplarında ve belgesellerde popüler
+
+---
+
+## İlginç Bilgiler
+
+- Penguinler monogam olabilir 💖
+- Bazı türler 20+ yıl yaşayabilir
+- Emperor penguin yavruları buzda -40°C sıcaklıkta büyür
+- Penguenler sosyal hayvanlardır: Toplu halde uyurlar ve korunurlar
+- Emoji ile anlatım: 🐧❄️🏊‍♂️💙❤️
+
+---
+
+## Tablolar
+
+| Tür         |  Boy   |  Ağırlık | Koloni Büyüklüğü | İlginç Özellik             |
+| :---------- | :----: | -------: | :--------------: | :------------------------- |
+| Emperor     | 1.2 m  | 22–45 kg |     20.000+      | En büyük penguen           |
+| King        | 1.0 m  | 11–16 kg |     10.000+      | Renkli boyun halkaları     |
+| Adelie      | 0.7 m  |   4–5 kg |     200.000+     | Koloni yaşamı çok yaygın   |
+| Little Blue | 0.33 m | 1–1.5 kg |      1.000+      | Dünyanın en küçük pengueni |
+
+---
+
+## Kod Örneği: Penguen Durumu
+
+```js
+const penguin = {
+  name: "Emperor",
+  canFly: false,
+  isGreatSwimmer: true,
+  colonySize: 20000,
+};
+
+console.log(`${penguin.name} pengueni uçamaz: ${penguin.canFly}`);
+```
+
+---
+
+## Canlı React Denemesi: Penguen Sayacı
+
+```jsx live
+export default function PenguinCounter() {
+  const [count, setCount] = React.useState(0);
+  return (
+    <div>
+      <p>Penguenler: {count}</p>
+      <button onClick={() => setCount(count + 1)}>➕ Ekle</button>
+      <button onClick={() => setCount(count - 1)}>➖ Azalt</button>
+    </div>
+  );
+}
+```
+
+---
+
+## Spoiler Örneği
+
+<details>
+<summary>Tıkla ve Gör</summary>
+
+Detay içeriği...
+
+</details>
+
+---
+
+## Footnotes
+
+Penguenler hakkında daha fazla bilgi için[^1].
+
+[^1]: [Wikipedia: Penguin](https://en.wikipedia.org/wiki/Penguin)
+
+---
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","div",null,{"data-slot":"card","className":"flex flex-col gap-4 border-[3px] border-foreground bg-background text-foreground rounded-none shadow-none p-4","children":[["$","div",null,{"data-slot":"card-header","className":"flex flex-col gap-1 border-b-[3px] border-foreground pb-3","children":["$","div",null,{"data-slot":"card-title","className":"font-bold text-lg leading-tight","children":"blog"}]}],["$","div",null,{"data-slot":"card-content","className":"flex flex-col gap-3 p-0","children":["$","$3",null,{"children":["$","$L4",null,{"posts":[{"slug":"137","frontmatter":{"title":"137","subtitle":"ve 317 ve 713 ve...","date":"2137-07-13","slug":"137","description":"sürekli gördüğüm bu sayı hakkında topladığım bilgiler"},"content":"$5"},{"slug":"26-subat-2026","frontmatter":{"title":"\"boiler room\"","subtitle":"26 şubat, 2026","date":"2026-02-26","slug":"26-subat-2026","description":"metro tünelleri karanlık, ıslak, nemli","tags":["dream-log"]},"content":"\nmetro tünelleri karanlık, ıslak, nemli  \nyerlerde raylar, çakıl taşları ve bazı yerlerde beton var.\n\neski tuğla duvarları yenilemek yerine eski duvarların önüne, duvarın sadece dörtte üçünü kaplayan istinat duvarımsı bir duvar örmüşler. yeni olduğunu betonun dokusundan ve renginden anlayabiliyorsun.\n\ntünellerinin içinde,  \neskiden kazan dairesi olan,  \nterkedilmiş boş bir oda var.\n\nmetronun beton duvarları  \nodanın girişini kapatmış  \nama birileri duvarın o kısmını yıkmış.\n\nduvarın içindeki metal çubuklar  \nve onlara tutunan beton parçaları  \ndışarıya doğru saçılıyor.\n\nbu spot meme'leşiyordu  \nve \"irl backrooms\" gibi hit bir spot oluyordu  \nbir şekilde burada yaşamaya başlıyordum  \niçerisi çok comfy'ydi  \nduvarda proktör falan vardı  \ncozy, her yeri dolu olan türden bir odaydı  \nmor ışıkları vardı  \nama  \nrüyanın sonuna doğru  \nbaşkası da odama giriyordu  \nçünkü orası public bir alan  \nve yatağımda çıplak bir kadınla uyanıyordum\n"},{"slug":"17-aralik-2025","frontmatter":{"title":"\"karbon\"","subtitle":"17 aralık, 2025","date":"2025-12-17","slug":"17-aralik-2025","description":"metrodayım, yanlış durakta inmişim, geri dönebilmek için uğraşıp duruyorum.","tags":["dream-log"]},"content":"$6"},{"slug":"07-aralik-2025","frontmatter":{"title":"\"tünel\"","subtitle":"7 aralık, 2025","date":"2025-12-07","slug":"07-aralik-2025","description":"bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum","tags":["dream-log"]},"content":"\n_(state-mandated **Pazar Kahvaltısı™** için kaldırıldığım için noir crime mystery thriller rüyamın başını, sonunu, detaylarını ve hatta tam olarak hangi karakter olduğumu bile hatırlamıyorum.\nbig-kahvaltı'ya lanet olsun.)_\n\nher yer karanlık,  \nher yer toz toprak,  \nbir tüneldeyim,  \nbir ceset var.\n\ncinayeti ben işlemedim  \nama ne olduğunu da hatırlamıyorum.\n\niki dedektif geliyor,  \ndoğal olarak benden şüpheleniyorlar.  \nonlara bir şeyler söylüyorum ama ne söylediğimi hatırlamıyorum.\n\nonlara tünelde rehberlik ediyorum.  \nkaçıp kurtulabileceğim noktalar olduğunu biliyorum, içerisi labirent gibi ve tuzaklar var, ama kaçmıyorum.\n\nüst katlara çıktıktan kısa süre sonra tünelden çıkıyoruz ve kendimizi lüks bir villada buluyoruz.\n\nnasıl bilmiyorum (ve hatırlamıyorum) ama iki detektif benim masum olduğuma ikna oluyor.  \niçimden ne kadar beceriksiz olduklarını geçiriyorum.  \nhemen sonra state-mandated **Pazar Kahvaltısı™** için uyandırılıyorum without consent.\n"},{"slug":"27-ekim-2025","frontmatter":{"title":"\"technopat\"","subtitle":"27 ekim, 2025","date":"2025-10-27","description":"technopat'tan herkese merhaba arkadaşlar, ben recep baltaş","slug":"27-ekim-2025","tags":["dream-log"]},"content":"$7"},{"slug":"liste","frontmatter":{"title":"listelendiniz","date":"2025-05-15","slug":"liste","description":"you know the drill"},"content":"$8"},{"slug":"01-nisan-2022","frontmatter":{"title":"\"antichrist\"","subtitle":"1 nisan, 2022","date":"2022-04-01","description":"evil bir bebeğim, emin emeklemelerle evil planımı gerçekleştiriyorum","slug":"01-nisan-2022","tags":["dream-log"]},"content":"$9"},{"slug":"23-mart-2022","frontmatter":{"title":"\"loveletter\"","subtitle":"23 mart, 2022","date":"2022-03-23","slug":"23-mart-2022","description":"bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum","coverImage":"https://i.imgur.com/cobIwPI.png","tags":["dream-log"]},"content":"$a"},{"slug":"27-nisan-2021","frontmatter":{"title":"\"gore\"","subtitle":"27 nisan, 2021","date":"2021-04-27","description":"bir adam bana elimi ve kolumu nasıl yenileyebileceğini anlatıyor.","slug":"27-nisan-2021","tags":["dream-log"]},"content":"\nkaranlık bir yerdeyim  \nbir sandalyede oturuyorum  \nsanırım bağlıyım\n\nbir adam bana elimi ve kolumu nasıl yenileyebileceğini anlatıyor.\n\nkolumu ve elimi bir kalıba(?) koyuyor.  \nönce bıçakla elimi kesiyor  \nsonra kolumu boydan boya kesiyor.\n\n---\n\nkolumun içinden mor bir şey çıkarıyor  \nve mor seyin ne olduğunu anlatıyor\n\nmor şeyin içini boşaltıyor  \nmor şeyin içini, içinden çıkana benzer, beyin gibi bir doku ile dolduruyor.\n\nellerim yeniden çıkıyor ama eskisi gibi degil.  \nfazladan parmaklar, parmaklar ucunda küçük eller...\n\n---\n\n[original tweet](https://x.com/ivmelenen/status/1934715991411302690)\n"},{"slug":"24-nisan-2021","frontmatter":{"title":"\"ölüm\"","subtitle":"24 nisan, 2021","date":"2021-04-24","description":"anaokulundayım. her yer rengarenk oyuncaklarla, akvaryumlarla dolu.","slug":"24-nisan-2021","coverImage":"https://cdn.hashnode.com/res/hashnode/image/upload/v1766873660547/70dcf334-8f60-45a6-92c4-d113f881d53e.jpeg","tags":["dream-log"]},"content":"$b"},{"slug":"24-mart-2021","frontmatter":{"title":"\"livestream\"","subtitle":"24 mart, 2021","date":"2021-03-24","description":"yayında bir bebek var, onu izliyorum ama ben, ben değilim, yayındaki bebeğim.","slug":"24-mart-2021","tags":["dream-log"]},"content":"$c"},{"slug":"misc-dreams","frontmatter":{"title":"bazı diğer rüyalar","subtitle":"öbürküler gibi değil","date":"2021-01-01","description":"kısa rüyalar, rüyamsılar, neredeyse rüyalar","slug":"misc-dreams","tags":["dream-log"]},"content":"$d"},{"slug":"test","frontmatter":{"title":"Penguenler 🐧","date":"0001-01-01","description":"Bu sayfada markdown çalışıyor mu diye test ediyorum","coverImage":"https://images.unsplash.com/photo-1598439210625-5067c578f3f6","slug":"test","tags":["test"]},"content":"$e"}]}]}]}],"$Lf"]}]}],["$L10","$L11"],"$L12"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FwTjIp6dkeBTJHiC4NMPY"}
+f:["$","div",null,{"data-slot":"card-footer","className":"flex items-center gap-2 border-t-[3px] border-foreground pt-3"}]
+10:["$","script","script-0",{"src":"/_next/static/chunks/0vhaioip8ogtz.js","async":true}]
+11:["$","script","script-1",{"src":"/_next/static/chunks/3pe2f9eq0jcv0.js","async":true}]
+12:["$","$L13",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null
