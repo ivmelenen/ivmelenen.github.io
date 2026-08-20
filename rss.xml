@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>https://ivmelenen.github.io</link>
+    <description>Son blog yazıları</description>
+    <language>tr</language>
+    <atom:link href="https://ivmelenen.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title><![CDATA[137]]></title>
+      <description><![CDATA[sürekli gördüğüm bu sayı hakkında topladığım bilgiler]]></description>
+      <link>https://ivmelenen.github.io/blog/137</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/137</guid>
+      <pubDate>Sat, 13 Jul 2137 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA["hayvanat bahçesi"]]></title>
+      <description><![CDATA[bir sabah babamla hayvanat bahçesine gidiyoruz, önce kumarhaneye uğruyoruz, sonra da kendimi sinemada buluyorum.]]></description>
+      <link>https://ivmelenen.github.io/blog/20-agustos-2026</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/20-agustos-2026</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA["boiler room"]]></title>
+      <description><![CDATA[metro tünelleri karanlık, ıslak, nemli]]></description>
+      <link>https://ivmelenen.github.io/blog/26-subat-2026</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/26-subat-2026</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA["karbon"]]></title>
+      <description><![CDATA[metrodayım, yanlış durakta inmişim, geri dönebilmek için uğraşıp duruyorum.]]></description>
+      <link>https://ivmelenen.github.io/blog/17-aralik-2025</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/17-aralik-2025</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA["tünel"]]></title>
+      <description><![CDATA[bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum]]></description>
+      <link>https://ivmelenen.github.io/blog/07-aralik-2025</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/07-aralik-2025</guid>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA["technopat"]]></title>
+      <description><![CDATA[technopat'tan herkese merhaba arkadaşlar, ben recep baltaş]]></description>
+      <link>https://ivmelenen.github.io/blog/27-ekim-2025</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/27-ekim-2025</guid>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA[listelendiniz]]></title>
+      <description><![CDATA[you know the drill]]></description>
+      <link>https://ivmelenen.github.io/blog/liste</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/liste</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA["antichrist"]]></title>
+      <description><![CDATA[evil bir bebeğim, emin emeklemelerle evil planımı gerçekleştiriyorum]]></description>
+      <link>https://ivmelenen.github.io/blog/01-nisan-2022</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/01-nisan-2022</guid>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA["loveletter"]]></title>
+      <description><![CDATA[bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum]]></description>
+      <link>https://ivmelenen.github.io/blog/23-mart-2022</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/23-mart-2022</guid>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+      <enclosure url="https://ivmelenen.github.iohttps://i.imgur.com/cobIwPI.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA["gore"]]></title>
+      <description><![CDATA[bir adam bana elimi ve kolumu nasıl yenileyebileceğini anlatıyor.]]></description>
+      <link>https://ivmelenen.github.io/blog/27-nisan-2021</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/27-nisan-2021</guid>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA["ölüm"]]></title>
+      <description><![CDATA[anaokulundayım. her yer rengarenk oyuncaklarla, akvaryumlarla dolu.]]></description>
+      <link>https://ivmelenen.github.io/blog/24-nisan-2021</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/24-nisan-2021</guid>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <enclosure url="https://ivmelenen.github.iohttps://cdn.hashnode.com/res/hashnode/image/upload/v1766873660547/70dcf334-8f60-45a6-92c4-d113f881d53e.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA["livestream"]]></title>
+      <description><![CDATA[yayında bir bebek var, onu izliyorum ama ben, ben değilim, yayındaki bebeğim.]]></description>
+      <link>https://ivmelenen.github.io/blog/24-mart-2021</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/24-mart-2021</guid>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA[bazı diğer rüyalar]]></title>
+      <description><![CDATA[kısa rüyalar, rüyamsılar, neredeyse rüyalar]]></description>
+      <link>https://ivmelenen.github.io/blog/misc-dreams</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/misc-dreams</guid>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+      
+    </item>
+    <item>
+      <title><![CDATA[Penguenler 🐧]]></title>
+      <description><![CDATA[Bu sayfada markdown çalışıyor mu diye test ediyorum]]></description>
+      <link>https://ivmelenen.github.io/blog/test</link>
+      <guid isPermaLink="true">https://ivmelenen.github.io/blog/test</guid>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 GMT</pubDate>
+      <enclosure url="https://ivmelenen.github.iohttps://images.unsplash.com/photo-1598439210625-5067c578f3f6" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
