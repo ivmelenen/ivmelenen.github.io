@@ -1,0 +1,256 @@
+@layer scroll-frame {
+  .scroll-frame {
+    --scroll-frame-ink: var(--theme-ink, #000);
+    --scroll-frame-accent: var(--theme-accent, #fff);
+    position: relative;
+    box-sizing: border-box;
+    padding: 28px;
+    isolation: isolate;
+  }
+
+  .scroll-frame > .scroll-frame__content {
+    position: relative;
+    z-index: 10;
+  }
+
+  .scroll-frame__ink-top {
+    position: absolute;
+    top: 0; left: 28px; right: 28px; height: 28px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--scroll-frame-ink);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-top.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-top.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 56px 28px;
+    -webkit-mask-size: 56px 28px;
+  }
+  .scroll-frame__accent-top {
+    position: absolute;
+    top: 0; left: 28px; right: 28px; height: 28px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--scroll-frame-accent);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-top.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-top.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 56px 28px;
+    -webkit-mask-size: 56px 28px;
+  }
+  .scroll-frame__ink-bottom {
+    position: absolute;
+    bottom: 0; left: 28px; right: 28px; height: 28px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--scroll-frame-ink);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-bottom.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-bottom.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 56px 28px;
+    -webkit-mask-size: 56px 28px;
+  }
+  .scroll-frame__accent-bottom {
+    position: absolute;
+    bottom: 0; left: 28px; right: 28px; height: 28px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--scroll-frame-accent);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-bottom.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-bottom.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 56px 28px;
+    -webkit-mask-size: 56px 28px;
+  }
+  .scroll-frame__ink-left {
+    position: absolute;
+    top: 28px; bottom: 28px; left: 0; width: 28px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--scroll-frame-ink);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-left.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-left.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 56px;
+    -webkit-mask-size: 28px 56px;
+  }
+  .scroll-frame__accent-left {
+    position: absolute;
+    top: 28px; bottom: 28px; left: 0; width: 28px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--scroll-frame-accent);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-left.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-left.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 56px;
+    -webkit-mask-size: 28px 56px;
+  }
+  .scroll-frame__ink-right {
+    position: absolute;
+    top: 28px; bottom: 28px; right: 0; width: 28px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--scroll-frame-ink);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-right.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-right.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 56px;
+    -webkit-mask-size: 28px 56px;
+  }
+  .scroll-frame__accent-right {
+    position: absolute;
+    top: 28px; bottom: 28px; right: 0; width: 28px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--scroll-frame-accent);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-right.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-right.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 56px;
+    -webkit-mask-size: 28px 56px;
+  }
+  .scroll-frame__ink-top-left {
+    position: absolute;
+    top: 0; left: 0; width: 28px; height: 28px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--scroll-frame-ink);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-top-left.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-top-left.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 28px;
+    -webkit-mask-size: 28px 28px;
+  }
+  .scroll-frame__accent-top-left {
+    position: absolute;
+    top: 0; left: 0; width: 28px; height: 28px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--scroll-frame-accent);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-top-left.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-top-left.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 28px;
+    -webkit-mask-size: 28px 28px;
+  }
+  .scroll-frame__ink-top-right {
+    position: absolute;
+    top: 0; right: 0; width: 28px; height: 28px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--scroll-frame-ink);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-top-right.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-top-right.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 28px;
+    -webkit-mask-size: 28px 28px;
+  }
+  .scroll-frame__accent-top-right {
+    position: absolute;
+    top: 0; right: 0; width: 28px; height: 28px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--scroll-frame-accent);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-top-right.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-top-right.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 28px;
+    -webkit-mask-size: 28px 28px;
+  }
+  .scroll-frame__ink-bottom-left {
+    position: absolute;
+    bottom: 0; left: 0; width: 28px; height: 28px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--scroll-frame-ink);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-bottom-left.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-bottom-left.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 28px;
+    -webkit-mask-size: 28px 28px;
+  }
+  .scroll-frame__accent-bottom-left {
+    position: absolute;
+    bottom: 0; left: 0; width: 28px; height: 28px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--scroll-frame-accent);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-bottom-left.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-bottom-left.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 28px;
+    -webkit-mask-size: 28px 28px;
+  }
+  .scroll-frame__ink-bottom-right {
+    position: absolute;
+    bottom: 0; right: 0; width: 28px; height: 28px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--scroll-frame-ink);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-bottom-right.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-ink-bottom-right.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 28px;
+    -webkit-mask-size: 28px 28px;
+  }
+  .scroll-frame__accent-bottom-right {
+    position: absolute;
+    bottom: 0; right: 0; width: 28px; height: 28px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--scroll-frame-accent);
+    mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-bottom-right.svg");
+    -webkit-mask-image: url("/assets/borders/scroll-frame/scroll-frame-accent-bottom-right.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 28px 28px;
+    -webkit-mask-size: 28px 28px;
+  }
+}

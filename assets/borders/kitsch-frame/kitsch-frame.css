@@ -1,0 +1,256 @@
+@layer kitsch-frame {
+  .kitsch-frame {
+    --kitsch-frame-ink: var(--theme-ink, #000);
+    --kitsch-frame-accent: var(--theme-accent, #fff);
+    position: relative;
+    box-sizing: border-box;
+    padding: 24px;
+    isolation: isolate;
+  }
+
+  .kitsch-frame > .kitsch-frame__content {
+    position: relative;
+    z-index: 10;
+  }
+
+  .kitsch-frame__ink-top {
+    position: absolute;
+    top: 0; left: 24px; right: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-ink);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-top.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-top.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 16px 24px;
+    -webkit-mask-size: 16px 24px;
+  }
+  .kitsch-frame__accent-top {
+    position: absolute;
+    top: 0; left: 24px; right: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-accent);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-top.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-top.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 16px 24px;
+    -webkit-mask-size: 16px 24px;
+  }
+  .kitsch-frame__ink-bottom {
+    position: absolute;
+    bottom: 0; left: 24px; right: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-ink);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-bottom.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-bottom.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 16px 24px;
+    -webkit-mask-size: 16px 24px;
+  }
+  .kitsch-frame__accent-bottom {
+    position: absolute;
+    bottom: 0; left: 24px; right: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-accent);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-bottom.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-bottom.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 16px 24px;
+    -webkit-mask-size: 16px 24px;
+  }
+  .kitsch-frame__ink-left {
+    position: absolute;
+    top: 24px; bottom: 24px; left: 0; width: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-ink);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-left.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-left.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 16px;
+    -webkit-mask-size: 24px 16px;
+  }
+  .kitsch-frame__accent-left {
+    position: absolute;
+    top: 24px; bottom: 24px; left: 0; width: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-accent);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-left.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-left.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 16px;
+    -webkit-mask-size: 24px 16px;
+  }
+  .kitsch-frame__ink-right {
+    position: absolute;
+    top: 24px; bottom: 24px; right: 0; width: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-ink);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-right.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-right.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 16px;
+    -webkit-mask-size: 24px 16px;
+  }
+  .kitsch-frame__accent-right {
+    position: absolute;
+    top: 24px; bottom: 24px; right: 0; width: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-accent);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-right.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-right.svg");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 16px;
+    -webkit-mask-size: 24px 16px;
+  }
+  .kitsch-frame__ink-top-left {
+    position: absolute;
+    top: 0; left: 0; width: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-ink);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-top-left.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-top-left.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .kitsch-frame__accent-top-left {
+    position: absolute;
+    top: 0; left: 0; width: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-accent);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-top-left.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-top-left.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .kitsch-frame__ink-top-right {
+    position: absolute;
+    top: 0; right: 0; width: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-ink);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-top-right.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-top-right.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .kitsch-frame__accent-top-right {
+    position: absolute;
+    top: 0; right: 0; width: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-accent);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-top-right.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-top-right.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .kitsch-frame__ink-bottom-left {
+    position: absolute;
+    bottom: 0; left: 0; width: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-ink);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-bottom-left.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-bottom-left.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .kitsch-frame__accent-bottom-left {
+    position: absolute;
+    bottom: 0; left: 0; width: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-accent);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-bottom-left.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-bottom-left.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .kitsch-frame__ink-bottom-right {
+    position: absolute;
+    bottom: 0; right: 0; width: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-ink);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-bottom-right.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-ink-bottom-right.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .kitsch-frame__accent-bottom-right {
+    position: absolute;
+    bottom: 0; right: 0; width: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--kitsch-frame-accent);
+    mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-bottom-right.svg");
+    -webkit-mask-image: url("/assets/borders/kitsch-frame/kitsch-frame-accent-bottom-right.svg");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+}
