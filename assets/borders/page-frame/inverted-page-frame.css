@@ -1,0 +1,256 @@
+@layer inverted-page-frame {
+  .inverted-page-frame {
+    --inverted-page-frame-ink: var(--theme-ink, #000);
+    --inverted-page-frame-accent: var(--theme-accent, #fff);
+    position: relative;
+    box-sizing: border-box;
+    padding: 24px;
+    isolation: isolate;
+  }
+
+  .inverted-page-frame > .inverted-page-frame__content {
+    position: relative;
+    z-index: 10;
+  }
+
+  .inverted-page-frame__ink-top {
+    position: absolute;
+    top: 0; left: 24px; right: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-ink);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%226%22%20viewBox%3D%220%200%204%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%201h4v1h-4zM0%202h4v1h-4zM0%203h4v1h-4zM0%204h4v1h-4zM0%205h4v1h-4z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%226%22%20viewBox%3D%220%200%204%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%201h4v1h-4zM0%202h4v1h-4zM0%203h4v1h-4zM0%204h4v1h-4zM0%205h4v1h-4z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 16px 24px;
+    -webkit-mask-size: 16px 24px;
+  }
+  .inverted-page-frame__accent-top {
+    position: absolute;
+    top: 0; left: 24px; right: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-accent);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%226%22%20viewBox%3D%220%200%204%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h4v1h-4z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%226%22%20viewBox%3D%220%200%204%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h4v1h-4z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 16px 24px;
+    -webkit-mask-size: 16px 24px;
+  }
+  .inverted-page-frame__ink-bottom {
+    position: absolute;
+    bottom: 0; left: 24px; right: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-ink);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%226%22%20viewBox%3D%220%200%204%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h4v1h-4zM0%201h4v1h-4zM0%202h4v1h-4zM0%203h4v1h-4zM0%204h4v1h-4z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%226%22%20viewBox%3D%220%200%204%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h4v1h-4zM0%201h4v1h-4zM0%202h4v1h-4zM0%203h4v1h-4zM0%204h4v1h-4z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 16px 24px;
+    -webkit-mask-size: 16px 24px;
+  }
+  .inverted-page-frame__accent-bottom {
+    position: absolute;
+    bottom: 0; left: 24px; right: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-accent);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%226%22%20viewBox%3D%220%200%204%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%205h4v1h-4z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%224%22%20height%3D%226%22%20viewBox%3D%220%200%204%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%205h4v1h-4z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: left center;
+    -webkit-mask-position: left center;
+    mask-size: 16px 24px;
+    -webkit-mask-size: 16px 24px;
+  }
+  .inverted-page-frame__ink-left {
+    position: absolute;
+    top: 24px; bottom: 24px; left: 0; width: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-ink);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%224%22%20viewBox%3D%220%200%206%204%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M1%200h5v1h-5zM1%201h5v1h-5zM1%202h5v1h-5zM1%203h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%224%22%20viewBox%3D%220%200%206%204%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M1%200h5v1h-5zM1%201h5v1h-5zM1%202h5v1h-5zM1%203h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 16px;
+    -webkit-mask-size: 24px 16px;
+  }
+  .inverted-page-frame__accent-left {
+    position: absolute;
+    top: 24px; bottom: 24px; left: 0; width: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-accent);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%224%22%20viewBox%3D%220%200%206%204%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h1v1h-1zM0%201h1v1h-1zM0%202h1v1h-1zM0%203h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%224%22%20viewBox%3D%220%200%206%204%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h1v1h-1zM0%201h1v1h-1zM0%202h1v1h-1zM0%203h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 16px;
+    -webkit-mask-size: 24px 16px;
+  }
+  .inverted-page-frame__ink-right {
+    position: absolute;
+    top: 24px; bottom: 24px; right: 0; width: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-ink);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%224%22%20viewBox%3D%220%200%206%204%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h5v1h-5zM0%201h5v1h-5zM0%202h5v1h-5zM0%203h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%224%22%20viewBox%3D%220%200%206%204%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h5v1h-5zM0%201h5v1h-5zM0%202h5v1h-5zM0%203h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 16px;
+    -webkit-mask-size: 24px 16px;
+  }
+  .inverted-page-frame__accent-right {
+    position: absolute;
+    top: 24px; bottom: 24px; right: 0; width: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-accent);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%224%22%20viewBox%3D%220%200%206%204%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M5%200h1v1h-1zM5%201h1v1h-1zM5%202h1v1h-1zM5%203h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%224%22%20viewBox%3D%220%200%206%204%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M5%200h1v1h-1zM5%201h1v1h-1zM5%202h1v1h-1zM5%203h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: round;
+    -webkit-mask-repeat: round;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 16px;
+    -webkit-mask-size: 24px 16px;
+  }
+  .inverted-page-frame__ink-top-left {
+    position: absolute;
+    top: 0; left: 0; width: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-ink);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M4%202h1v1h-1zM3%203h2v1h-2zM2%204h3v1h-3z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M4%202h1v1h-1zM3%203h2v1h-2zM2%204h3v1h-3z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .inverted-page-frame__accent-top-left {
+    position: absolute;
+    top: 0; left: 0; width: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-accent);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M5%200h1v1h-1zM4%201h2v1h-2zM3%202h1v1h-1zM5%202h1v1h-1zM2%203h1v1h-1zM5%203h1v1h-1zM1%204h1v1h-1zM5%204h1v1h-1zM0%205h6v1h-6z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M5%200h1v1h-1zM4%201h2v1h-2zM3%202h1v1h-1zM5%202h1v1h-1zM2%203h1v1h-1zM5%203h1v1h-1zM1%204h1v1h-1zM5%204h1v1h-1zM0%205h6v1h-6z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .inverted-page-frame__ink-top-right {
+    position: absolute;
+    top: 0; right: 0; width: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-ink);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%201h5v1h-5zM0%202h5v1h-5zM0%203h5v1h-5zM0%204h5v1h-5zM0%205h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%201h5v1h-5zM0%202h5v1h-5zM0%203h5v1h-5zM0%204h5v1h-5zM0%205h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .inverted-page-frame__accent-top-right {
+    position: absolute;
+    top: 0; right: 0; width: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-accent);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h6v1h-6zM5%201h1v1h-1zM5%202h1v1h-1zM5%203h1v1h-1zM5%204h1v1h-1zM5%205h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h6v1h-6zM5%201h1v1h-1zM5%202h1v1h-1zM5%203h1v1h-1zM5%204h1v1h-1zM5%205h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .inverted-page-frame__ink-bottom-left {
+    position: absolute;
+    bottom: 0; left: 0; width: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-ink);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M1%200h5v1h-5zM1%201h5v1h-5zM1%202h5v1h-5zM1%203h5v1h-5zM1%204h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M1%200h5v1h-5zM1%201h5v1h-5zM1%202h5v1h-5zM1%203h5v1h-5zM1%204h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .inverted-page-frame__accent-bottom-left {
+    position: absolute;
+    bottom: 0; left: 0; width: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-accent);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h1v1h-1zM0%201h1v1h-1zM0%202h1v1h-1zM0%203h1v1h-1zM0%204h1v1h-1zM0%205h6v1h-6z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h1v1h-1zM0%201h1v1h-1zM0%202h1v1h-1zM0%203h1v1h-1zM0%204h1v1h-1zM0%205h6v1h-6z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .inverted-page-frame__ink-bottom-right {
+    position: absolute;
+    bottom: 0; right: 0; width: 24px; height: 24px;
+    z-index: 1;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-ink);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h5v1h-5zM0%201h5v1h-5zM0%202h5v1h-5zM0%203h5v1h-5zM0%204h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M0%200h5v1h-5zM0%201h5v1h-5zM0%202h5v1h-5zM0%203h5v1h-5zM0%204h5v1h-5z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+  .inverted-page-frame__accent-bottom-right {
+    position: absolute;
+    bottom: 0; right: 0; width: 24px; height: 24px;
+    z-index: 2;
+    pointer-events: none;
+    background-color: var(--inverted-page-frame-accent);
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M5%200h1v1h-1zM5%201h1v1h-1zM5%202h1v1h-1zM5%203h1v1h-1zM5%204h1v1h-1zM0%205h6v1h-6z%22%2F%3E%3C%2Fsvg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20shape-rendering%3D%22crispEdges%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M5%200h1v1h-1zM5%201h1v1h-1zM5%202h1v1h-1zM5%203h1v1h-1zM5%204h1v1h-1zM0%205h6v1h-6z%22%2F%3E%3C%2Fsvg%3E");
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center top;
+    -webkit-mask-position: center top;
+    mask-size: 24px 24px;
+    -webkit-mask-size: 24px 24px;
+  }
+}
