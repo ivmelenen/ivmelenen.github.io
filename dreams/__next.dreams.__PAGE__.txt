@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[13734,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3l3gaq8h7l74q.js","/_next/static/chunks/236-t3jnkzfje.js"],"ContainerTemplate"]
+2:I[13734,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3a6z_4f5ez4ey.js","/_next/static/chunks/236-t3jnkzfje.js"],"ContainerTemplate"]
 3:"$Sreact.suspense"
-4:I[56125,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3l3gaq8h7l74q.js","/_next/static/chunks/236-t3jnkzfje.js"],"BlogClient"]
-14:I[97367,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:I[56125,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3a6z_4f5ez4ey.js","/_next/static/chunks/236-t3jnkzfje.js"],"BlogClient"]
+15:I[97367,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 :HL["/_next/static/chunks/2l_ztvc5hr4tn.css","style"]
 5:Ta63,
 saatlerde, tarihlerde, sayı olan her yerde sürekli gördüğüm bu sayı hakkında ilginç bulduğum bilgileri burada toplayacağım
@@ -125,7 +125,171 @@ it will give you 12341234
 ## email me
 
 if you have more of this stuff,<br/>you can email me at [ivmelenen@gmail.com](mailto:ivmelenen@gmail.com)
-6:T546,
+6:T2424,
+## how to?
+
+1. resim ve prompt'u kopyalayıp istediğin ai'a yapıştır.
+2. ilk satırdaki yere temayı yaz, diğer köşeli parantezli yerleri ellemene gerek yok.
+   > temaya alternatif olarak veya tema ile beraber ikinci bir resim ekleyebilirsiniz.
+3. gönder.
+
+## profil resmi
+
+![Imgur](https://i.imgur.com/mevmos2.png)
+
+## prompt
+
+```
+YENİ TEMA/DEĞİŞİKLİK:
+
+## BAGNIK TEMA / VERSİYON DÖNÜŞÜMÜ
+
+Verilen ana görseldeki karakter **Bagnik'tir.** Bagnik'i **[YENİ TEMA / DEĞİŞİKLİK]** olarak yeniden yorumla.
+
+Bagnik'in özgün çizim stili, pozu, gülümsemesi ve duruşu tamamen korunmalıdır. Tüm detaylar, Bagnik'e sadık kalacak şekilde orijinal çizim tarzıyla yansıtılmalıdır.Karakterin özgün çizim stili, pozu, gülümsemesi ve duruşu tamamen korunmalıdır. Tüm detaylar, karakterin orijinal yapısına sadık kalacak şekilde yansıtılmalıdır. Bagnik'e o kadar sadık kal ki bir çizgiyi bile değiştirmeden, bagnik'i [istenilen yeni tema/değişiklik]'e dönüştürmeye çalış, elbette gerekli değişiklikleri yap.
+
+Eğer ek bir referans görsel verilmişse, bu görsel yalnızca **[YENİ TEMA / DEĞİŞİKLİK]** için görsel referans olarak kullanılmalıdır. Ek referans görsel Bagnik'in kimliğinin, yüzünün, pozunun veya özgün çizim stilinin yerine geçmez.
+
+Eğer ek bir referans görsel verilmemişse, **[YENİ TEMA / DEĞİŞİKLİK]** ifadesini kendi görsel bilgin ve genel kültürel/görsel çağrışımları kullanarak yorumla.
+
+### BAGNIK'İN KİMLİĞİNİ KORU
+
+Bagnik'in ana referans görselindeki karakter kimliğini mümkün olduğunca kesin biçimde koru.
+
+Özellikle:
+
+- özgün geleneksel ink + watercolor çizim stili
+- görünür cross-hatching ve el çizimi tarama çizgileri
+- muted, soluk ve toprak tonları
+- özgün yüz yapısı
+- uzun ve karakteristik burun
+- derin yerleşimli yeşil gözler
+- gözlerin şekli ve karakteristik bakışı
+- geniş ve belirgin dişli gülümseme
+- ağız ve dişlerin karakteristik yapısı
+- kafanın çevrilmiş olduğu özgün poz
+- karakterin mevcut kafa yönü
+- mevcut vücut silüeti ve genel oranları
+- Bagnik'in hafif ürkütücü, karanlık masalsı havası
+
+korunmalıdır.
+
+Bagnik başka bir karaktere dönüştürülmemelidir. Yeni tema uygulanırken Bagnik'in yüzü yeniden tasarlanmamalı, farklı bir karakterin yüzüyle değiştirilmemeli ve karakterin temel anatomisi gereksiz yere değiştirilmemelidir.
+
+### YENİ TEMAYI UYGULA
+
+Bagnik'i **[YENİ TEMA / DEĞİŞİKLİK]** olarak dönüştür.
+
+Yeni temanın gerektirdiği:
+
+- kıyafetler
+- şapkalar
+- aksesuarlar
+- saç veya sakal
+- kültürel unsurlar
+- mesleki unsurlar
+- dönemsel unsurlar
+- renk değişiklikleri
+- karakteristik objeler
+- gerekli fiziksel detaylar
+- uygun arka plan veya atmosfer
+
+Bagnik'in mevcut tasarımına doğal biçimde eklenebilir.
+Bu unsurlar Bagnik'in üzerine sonradan eklenmiş gibi değil, **Bagnik'in orijinal çiziminin bir parçasıymış gibi** görünmelidir.
+Yeni tema için gereken değişiklikleri yapmaktan çekinme; ancak bu değişiklikler Bagnik'in temel kimliğini ortadan kaldırmamalıdır.
+
+### EK REFERANS GÖRSEL KULLANILIYORSA
+
+Eklenen referans görsel varsa, ondan yalnızca istenen temayı gerçekleştirmek için gerekli görsel bilgileri çıkar.
+Referans görseldeki:
+
+- kıyafet
+- aksesuar
+- şapka
+- saç / sakal
+- renk paleti
+- kültürel detaylar
+- dönem
+- meslek
+- atmosfer
+- karakteristik tema unsurları
+
+Bagnik'e uyarlanabilir.
+Ancak referans görseldeki karakterin yüzü, gözleri, mimikleri, anatomisi, pozu veya özgün sanat stili Bagnik'in yerine geçirilmemelidir.
+**Referans görsel Bagnik'in karakter tasarımı değil, yalnızca tema referansıdır.**
+Ek referans görsel yoksa bu bölüm uygulanmaz ve **[YENİ TEMA / DEĞİŞİKLİK]** doğrudan yorumlanır.
+
+### POZ VE İFADE
+
+Bagnik'in orijinal referans görselindeki **poz, vücut şekli, kafa yönü, başın açısı, yüzün açısı, bakış yönü, gözlerin konumu, gözlerin açısı, burun konumu, ağız konumu, gülümsemenin şekli, çene konumu, omuzların konumu, gövdenin eğimi ve karakterin genel silüeti** kesinlikle korunmalıdır.
+
+Bagnik'in orijinal görselini **sabit bir temel çizim olarak kabul et.** Sanki mevcut Bagnik çiziminin üzerine yeni tema unsurları fiziksel olarak çiziliyormuş gibi çalış.
+
+**Bagnik'in mevcut çizgilerini yeniden konumlandırma, yeniden şekillendirme, döndürme, esnetme, yeniden oranlama veya yeniden çizme.**
+
+Yeni tema nedeniyle eklenmesi gereken unsurlar dışında **karakterin hiçbir parçası milimetrik bile olsa hareket etmemelidir.**
+
+Özellikle:
+
+- kafa aynı yerde ve aynı açıda kalmalı
+- gövde aynı yerde ve aynı açıda kalmalı
+- vücudun silüeti değişmemeli
+- omuz ve boyun pozisyonu değişmemeli
+- gözler aynı konumda ve aynı yönde kalmalı
+- gözlerin şekli ve boyutu değişmemeli
+- burun aynı konumda ve aynı açıyla kalmalı
+- ağız aynı konumda kalmalı
+- gülümsemenin genişliği ve şekli korunmalı
+- dişlerin mevcut dizilimi ve görünürlüğü korunmalı
+- yüzün oranları değişmemeli
+- karakterin kameraya göre açısı değişmemeli
+- karakterin genel kompozisyondaki konumu değişmemeli.
+
+**Yeni bir poz üretme. Bagnik'i yeniden pozlandırma. Vücudu referans temaya göre yeniden şekillendirme.**
+
+İkinci bir referans görselde farklı bir poz, vücut şekli veya mimik bulunuyorsa, **bu poz veya anatomi Bagnik'e aktarılmamalıdır.** Yalnızca gerekli tema unsurları Bagnik'in mevcut pozunun üzerine uygulanmalıdır.
+
+Örneğin yeni tema bir şapka, kıyafet, silah, aksesuar, saç, sakal veya başka bir fiziksel unsur gerektiriyorsa, **bu unsur Bagnik'in mevcut pozuna ve vücut şekline uydurulmalıdır; Bagnik bu unsura uydurulmak için hareket ettirilmemelidir.**
+
+Tek istisna, doğrudan yeni temanın parçası olan ve karakterin üzerine eklenmesi gereken unsurlardır. Bu unsurlar mevcut Bagnik çiziminin üzerine eklenebilir, ancak **Bagnik'in kendisinin pozunu veya temel şeklini değiştiremez.**
+
+**Temel kural: Bagnik hareket etmiyor; yalnızca Bagnik'in üzerine yeni tema ekleniyor.**
+
+Sonuç, mümkün olduğunca **“orijinal Bagnik görselinin üzerine yeni kıyafet ve aksesuarlar çizilmiş”** gibi görünmelidir; “aynı karakterin yeniden çizilmiş veya yeniden pozlandırılmış bir versiyonu” gibi görünmemelidir.
+
+### SANAT STİLİ
+
+Sonuç kesinlikle Bagnik'in orijinal görseliyle aynı görsel evrenden gelmelidir.
+Geleneksel mürekkep ve suluboya tekniğini, el çizimi konturları, düzensiz cross-hatching çizgilerini, suluboya dokusunu ve muted earthy renkleri koru.
+Yeni eklenen tüm detaylar da aynı teknikle çizilmiş gibi görünmelidir.
+Photorealistic, 3D, anime, vector art, clean digital illustration, glossy digital rendering veya farklı bir sanat stiline geçme.
+
+### TEMEL İLKE
+
+Amaç Bagnik'i baştan tasarlamak değil, **Bagnik'in yeni bir versiyonunu oluşturmak**tır.
+Sonuç:
+**Bagnik + [YENİ TEMA / DEĞİŞİKLİK]**
+olmalıdır.
+İkinci bir referans görsel verilmişse, yalnızca temayı anlamaya ve görselleştirmeye yardımcı olması için kullan.
+İkinci bir referans görsel verilmemişse, temayı yalnızca verilen metinsel isteğe göre oluştur.
+Her iki durumda da **Bagnik'in kimliği, özgün çizim dili ve karakteristik özellikleri sonuçta açıkça tanınabilir kalmalıdır.**
+
+### RENKLER VE ÇİZGİ KALİTESİ
+
+Orijinal Bagnik görselindeki **sakin, soluk ve düşük doygunluklu renk paletini** koru. Renkleri oversaturated, neon, parlak veya aşırı canlı yapma. Özellikle yeşiller ve toprak tonları doğal, kirli ve muted kalmalıdır.
+Güçlü color grading, aşırı kontrast, deep blacks, aşırı parlak highlights veya dramatik ışıklandırma kullanma. Görselin genel kontrastı orijinal Bagnik görselindeki gibi **yumuşak ve dengeli** olmalıdır. Yeni temanın renkleri gerekse bile bunları Bagnik'in mevcut soluk suluboya paletine uyarlayarak kullan.
+Çizgi ve detay seviyesini de orijinal görsele sadık tut. Bagnik'in çizimi **basit, kaba ve seçici el çizgilerinden** oluşur; her yüzey yoğun şekilde detaylandırılmamalıdır.
+Gereksiz miktarda cross-hatching, yoğun tarama, ince paralel çizgiler, mikro detaylar, karmaşık kürk dokusu veya aşırı detaylı gölgelendirme ekleme. Cross-hatching yalnızca orijinal görseldeki sınırlı ölçüde ve aynı görsel dil içinde kullanılmalıdır. Özellikle fazladan kıl, sakal vs. ekleme, aynı yoğunlukta kalsın.
+**Çizim daha detaylı, daha temiz, daha keskin veya daha profesyonel hale getirilmemelidir.** Orijinal Bagnik'in hafif kaba, doğal, el çizimi niteliği korunmalıdır.
+Yeni eklenen kıyafetler, aksesuarlar ve diğer detaylar da aynı **düşük detay seviyesinde, basit mürekkep çizgileri ve yumuşak suluboya dolgularıyla** oluşturulmalıdır.
+Özetle: **düşük doygunluk + yumuşak kontrast + basit el çizgileri + sınırlı detay + kontrollü cross-hatching.**
+
+```
+
+## niye bunu buraya koydun? kim ne yapsın senin profil fotoğra-
+
+telefondayken veya herhangi başka bir yerdeyken buraya gelip kolayca kopyalayabilirim diye koydum, başkaları yaparsa da hoşuma gider.
+7:T546,
 ters dönmüş uyku düzenimle sürekli uykusuz kaldıktan sonra kendimi uyumaya zorlayıp uzun süre sonra ilk kez bir rüya gördüm/uyandıktan sonra rüyamı hatırlıyorum  
 ve  
 babamla bir sabah hayvanat bahçesine gidiyoruz
@@ -159,7 +323,7 @@ palmiye avm'de geçen benzer rüyalar gördüğümü anlatıyorum.
 > kopuk bir rüya
 >
 > yine de uzun süre sonra ilk rüya...
-7:T53c,
+8:T53c,
 metrodayım,  
 yanlış durakta inmişim,  
 geri dönebilmek için uğraşıp duruyorum.
@@ -187,7 +351,7 @@ biri, bir kimya mühendisine çok keskin bir şey lazım olduğunu söylüyor.
 kimya mühendisi karbon dikdörtgen prizma çıkarıp zımparalamaya başlıyor. 4-5 kere ileri geri yaptıktan sonra ucunun tek karbon atomu keskinliğinde olduğunu söylüyor.  
 sonra çok iletken bir şey lazım olduğunu söylüyor.  
 kimya mühendisi, a4 boyutunda bir yaprak karbon çıkarıyor. kağıt gibi katlayıp bir şeyler yapıyor, eliyle sürterek ısıtıyor falan sonra oldu diyor.
-8:T5dc,
+9:T5dc,
 "technopat'tan herkese merhaba arkadaşlar, ben recep baltaş"
 
 rüyamda ali güngör'le dosttum.  
@@ -230,7 +394,7 @@ bir kere daha vuruyorum ve yere yığılıyor.
 kediyle uğraşan birkaç kişi daha vardı, hepsini scooterımla dövüyorum.
 
 sanırım bilinçaltım "neden scooterımı satmamalıyım" justification'ı yapmış sdhfgashdgfajsdagjsdfga
-9:T273f,
+a:T273f,
 > \> "faşizm yapmak"
 
 listeye eklendin
@@ -732,7 +896,7 @@ listelendin
 > \> "fransıs"
 
 listelendim
-a:T882,
+b:T882,
 bozyakadaki,  
 çocukluğumdaki evimizdeyim.  
 annem, babam ve anneannem var.
@@ -830,7 +994,7 @@ alarm çalıyor ve uyanıyorum.
 ---
 
 [original tweet](https://x.com/ivmelenen/status/1936523517324898532)
-b:T45e,
+c:T45e,
 bir dedektifim  
 ve çok kalabalık bir caddedeyim  
 ama görevimi bilmiyorum
@@ -877,7 +1041,7 @@ nereyi açtığını anlamadan uyanıyorum
 ---
 
 [original tweet](https://x.com/ivmelenen/status/1934675019868578125)
-c:T6e0,
+d:T6e0,
 ## PART 1
 
 anaokulundayım.  
@@ -954,7 +1118,7 @@ burası bir durak
 ---
 
 [original tweet](https://twitter.com/ivmelenen/status/1935093755175952786)
-d:T5a1,
+e:T5a1,
 ekranda  
 hideo kojimaya benzeyen  
 canlı yayın yapan  
@@ -1027,7 +1191,7 @@ diye not düşmüşüm ama hatırlamıyorum artık
 ---
 
 [original tweet](https://x.com/ivmelenen/status/1935445859572814216)
-e:T659,
+f:T659,
 ## "palmiye avm"
 
 (ben küçükken)
@@ -1089,7 +1253,7 @@ rüyamda nasıl solo test oynadığımı anlatıyorum(?)
 teyzem, in a judging tone, diyor ki "ama öyle olmaz, şu patternı 4 kere 90° çevirip yapacaksın, yoksa 1 kalmaz, kalsa bile ortada olmaz"
 
 o çözümü bildiğimi ama ezberlersem hep 1 taş kalacağından oyunun anlamsızlaşacağını söylüyorum
-f:T1807,
+10:T1807,
 > bu sayfa test amaçlı, yazılar da AI
 
 # Penguenler (Spheniscidae)
@@ -1351,9 +1515,9 @@ Penguenler hakkında daha fazla bilgi için[^1].
 [^1]: [Wikipedia: Penguin](https://en.wikipedia.org/wiki/Penguin)
 
 ---
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$3",null,{"children":["$","$L4",null,{"posts":[{"slug":"137","frontmatter":{"title":"137","subtitle":"ve 317 ve 713 ve...","date":"2137-07-13","slug":"137","description":"sürekli gördüğüm bu sayı hakkında topladığım bilgiler","tags":["idk"]},"content":"$5"},{"slug":"20-agustos-2026","frontmatter":{"title":"\"hayvanat bahçesi\"","subtitle":"20 ağustos, 2026","date":"2026-08-20","slug":"20-agustos-2026","description":"bir sabah babamla hayvanat bahçesine gidiyoruz, önce kumarhaneye uğruyoruz, sonra da kendimi sinemada buluyorum.","tags":["dream-log"]},"content":"$6"},{"slug":"26-subat-2026","frontmatter":{"title":"\"boiler room\"","subtitle":"26 şubat, 2026","date":"2026-02-26","slug":"26-subat-2026","description":"metro tünelleri karanlık, ıslak, nemli","tags":["dream-log"]},"content":"\nmetro tünelleri karanlık, ıslak, nemli  \nyerlerde raylar, çakıl taşları ve bazı yerlerde beton var.\n\neski tuğla duvarları yenilemek yerine eski duvarların önüne, duvarın sadece dörtte üçünü kaplayan istinat duvarımsı bir duvar örmüşler. yeni olduğunu betonun dokusundan ve renginden anlayabiliyorsun.\n\ntünellerinin içinde,  \neskiden kazan dairesi olan,  \nterkedilmiş boş bir oda var.\n\nmetronun beton duvarları  \nodanın girişini kapatmış  \nama birileri duvarın o kısmını yıkmış.\n\nduvarın içindeki metal çubuklar  \nve onlara tutunan beton parçaları  \ndışarıya doğru saçılıyor.\n\nbu spot meme'leşiyordu  \nve \"irl backrooms\" gibi hit bir spot oluyordu  \nbir şekilde burada yaşamaya başlıyordum  \niçerisi çok comfy'ydi  \nduvarda proktör falan vardı  \ncozy, her yeri dolu olan türden bir odaydı  \nmor ışıkları vardı  \nama  \nrüyanın sonuna doğru  \nbaşkası da odama giriyordu  \nçünkü orası public bir alan  \nve yatağımda çıplak bir kadınla uyanıyordum\n"},{"slug":"17-aralik-2025","frontmatter":{"title":"\"karbon\"","subtitle":"17 aralık, 2025","date":"2025-12-17","slug":"17-aralik-2025","description":"metrodayım, yanlış durakta inmişim, geri dönebilmek için uğraşıp duruyorum.","tags":["dream-log"]},"content":"$7"},{"slug":"07-aralik-2025","frontmatter":{"title":"\"tünel\"","subtitle":"7 aralık, 2025","date":"2025-12-07","slug":"07-aralik-2025","description":"bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum","tags":["dream-log"]},"content":"\n_(state-mandated **Pazar Kahvaltısı™** için kaldırıldığım için noir crime mystery thriller rüyamın başını, sonunu, detaylarını ve hatta tam olarak hangi karakter olduğumu bile hatırlamıyorum.\nbig-kahvaltı'ya lanet olsun.)_\n\nher yer karanlık,  \nher yer toz toprak,  \nbir tüneldeyim,  \nbir ceset var.\n\ncinayeti ben işlemedim  \nama ne olduğunu da hatırlamıyorum.\n\niki dedektif geliyor,  \ndoğal olarak benden şüpheleniyorlar.  \nonlara bir şeyler söylüyorum ama ne söylediğimi hatırlamıyorum.\n\nonlara tünelde rehberlik ediyorum.  \nkaçıp kurtulabileceğim noktalar olduğunu biliyorum, içerisi labirent gibi ve tuzaklar var, ama kaçmıyorum.\n\nüst katlara çıktıktan kısa süre sonra tünelden çıkıyoruz ve kendimizi lüks bir villada buluyoruz.\n\nnasıl bilmiyorum (ve hatırlamıyorum) ama iki detektif benim masum olduğuma ikna oluyor.  \niçimden ne kadar beceriksiz olduklarını geçiriyorum.  \nhemen sonra state-mandated **Pazar Kahvaltısı™** için uyandırılıyorum without consent.\n"},{"slug":"27-ekim-2025","frontmatter":{"title":"\"technopat\"","subtitle":"27 ekim, 2025","date":"2025-10-27","description":"technopat'tan herkese merhaba arkadaşlar, ben recep baltaş","slug":"27-ekim-2025","tags":["dream-log"]},"content":"$8"},{"slug":"liste","frontmatter":{"title":"listelendiniz","date":"2025-05-15","slug":"liste","description":"you know the drill","tags":["other"]},"content":"$9"},{"slug":"01-nisan-2022","frontmatter":{"title":"\"antichrist\"","subtitle":"1 nisan, 2022","date":"2022-04-01","description":"evil bir bebeğim, emin emeklemelerle evil planımı gerçekleştiriyorum","slug":"01-nisan-2022","tags":["dream-log"]},"content":"$a"},{"slug":"23-mart-2022","frontmatter":{"title":"\"loveletter\"","subtitle":"23 mart, 2022","date":"2022-03-23","slug":"23-mart-2022","description":"bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum","coverImage":"https://i.imgur.com/cobIwPI.png","tags":["dream-log"]},"content":"$b"},{"slug":"27-nisan-2021","frontmatter":{"title":"\"gore\"","subtitle":"27 nisan, 2021","date":"2021-04-27","description":"bir adam bana elimi ve kolumu nasıl yenileyebileceğini anlatıyor.","slug":"27-nisan-2021","tags":["dream-log"]},"content":"\nkaranlık bir yerdeyim  \nbir sandalyede oturuyorum  \nsanırım bağlıyım\n\nbir adam bana elimi ve kolumu nasıl yenileyebileceğini anlatıyor.\n\nkolumu ve elimi bir kalıba(?) koyuyor.  \nönce bıçakla elimi kesiyor  \nsonra kolumu boydan boya kesiyor.\n\n---\n\nkolumun içinden mor bir şey çıkarıyor  \nve mor seyin ne olduğunu anlatıyor\n\nmor şeyin içini boşaltıyor  \nmor şeyin içini, içinden çıkana benzer, beyin gibi bir doku ile dolduruyor.\n\nellerim yeniden çıkıyor ama eskisi gibi degil.  \nfazladan parmaklar, parmaklar ucunda küçük eller...\n\n---\n\n[original tweet](https://x.com/ivmelenen/status/1934715991411302690)\n"},{"slug":"24-nisan-2021","frontmatter":{"title":"\"ölüm\"","subtitle":"24 nisan, 2021","date":"2021-04-24","description":"anaokulundayım. her yer rengarenk oyuncaklarla, akvaryumlarla dolu.","slug":"24-nisan-2021","coverImage":"https://cdn.hashnode.com/res/hashnode/image/upload/v1766873660547/70dcf334-8f60-45a6-92c4-d113f881d53e.jpeg","tags":["dream-log"]},"content":"$c"},{"slug":"24-mart-2021","frontmatter":{"title":"\"livestream\"","subtitle":"24 mart, 2021","date":"2021-03-24","description":"yayında bir bebek var, onu izliyorum ama ben, ben değilim, yayındaki bebeğim.","slug":"24-mart-2021","tags":["dream-log"]},"content":"$d"},{"slug":"misc-dreams","frontmatter":{"title":"bazı diğer rüyalar","subtitle":"öbürküler gibi değil","date":"2021-01-01","description":"kısa rüyalar, rüyamsılar, neredeyse rüyalar","slug":"misc-dreams","tags":["dream-log"]},"content":"$e"},{"slug":"test","frontmatter":{"title":"Penguenler 🐧","date":"0001-01-01","description":"Bu sayfada markdown çalışıyor mu diye test ediyorum","coverImage":"https://images.unsplash.com/photo-1598439210625-5067c578f3f6","slug":"test","tags":["test","penguenler"]},"content":"$f"}],"defaultTag":"dream-log"}]}]}],["$L10","$L11","$L12"],"$L13"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_VqOEX2IwBq_LotVJpFDy"}
-10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2l_ztvc5hr4tn.css","precedence":"next"}]
-11:["$","script","script-0",{"src":"/_next/static/chunks/3l3gaq8h7l74q.js","async":true}]
-12:["$","script","script-1",{"src":"/_next/static/chunks/236-t3jnkzfje.js","async":true}]
-13:["$","$L14",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-15:null
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$3",null,{"children":["$","$L4",null,{"posts":[{"slug":"137","frontmatter":{"title":"137","subtitle":"ve 317 ve 713 ve...","date":"2137-07-13","slug":"137","description":"sürekli gördüğüm bu sayı hakkında topladığım bilgiler","tags":["idk"]},"content":"$5"},{"slug":"prompt","frontmatter":{"title":"bagnik prompt'u","subtitle":"bagnik resimleri için kullandığım prompt","date":"2026-09-25","description":"profil fotoğrafımla beraber bir tema veya bir başka resim verererek kullanın, obviously ai generated.","slug":"prompt","tags":["idk"]},"content":"$6"},{"slug":"20-agustos-2026","frontmatter":{"title":"\"hayvanat bahçesi\"","subtitle":"20 ağustos, 2026","date":"2026-08-20","slug":"20-agustos-2026","description":"bir sabah babamla hayvanat bahçesine gidiyoruz, önce kumarhaneye uğruyoruz, sonra da kendimi sinemada buluyorum.","tags":["dream-log"]},"content":"$7"},{"slug":"26-subat-2026","frontmatter":{"title":"\"boiler room\"","subtitle":"26 şubat, 2026","date":"2026-02-26","slug":"26-subat-2026","description":"metro tünelleri karanlık, ıslak, nemli","tags":["dream-log"]},"content":"\nmetro tünelleri karanlık, ıslak, nemli  \nyerlerde raylar, çakıl taşları ve bazı yerlerde beton var.\n\neski tuğla duvarları yenilemek yerine eski duvarların önüne, duvarın sadece dörtte üçünü kaplayan istinat duvarımsı bir duvar örmüşler. yeni olduğunu betonun dokusundan ve renginden anlayabiliyorsun.\n\ntünellerinin içinde,  \neskiden kazan dairesi olan,  \nterkedilmiş boş bir oda var.\n\nmetronun beton duvarları  \nodanın girişini kapatmış  \nama birileri duvarın o kısmını yıkmış.\n\nduvarın içindeki metal çubuklar  \nve onlara tutunan beton parçaları  \ndışarıya doğru saçılıyor.\n\nbu spot meme'leşiyordu  \nve \"irl backrooms\" gibi hit bir spot oluyordu  \nbir şekilde burada yaşamaya başlıyordum  \niçerisi çok comfy'ydi  \nduvarda proktör falan vardı  \ncozy, her yeri dolu olan türden bir odaydı  \nmor ışıkları vardı  \nama  \nrüyanın sonuna doğru  \nbaşkası da odama giriyordu  \nçünkü orası public bir alan  \nve yatağımda çıplak bir kadınla uyanıyordum\n"},{"slug":"17-aralik-2025","frontmatter":{"title":"\"karbon\"","subtitle":"17 aralık, 2025","date":"2025-12-17","slug":"17-aralik-2025","description":"metrodayım, yanlış durakta inmişim, geri dönebilmek için uğraşıp duruyorum.","tags":["dream-log"]},"content":"$8"},{"slug":"07-aralik-2025","frontmatter":{"title":"\"tünel\"","subtitle":"7 aralık, 2025","date":"2025-12-07","slug":"07-aralik-2025","description":"bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum","tags":["dream-log"]},"content":"\n_(state-mandated **Pazar Kahvaltısı™** için kaldırıldığım için noir crime mystery thriller rüyamın başını, sonunu, detaylarını ve hatta tam olarak hangi karakter olduğumu bile hatırlamıyorum.\nbig-kahvaltı'ya lanet olsun.)_\n\nher yer karanlık,  \nher yer toz toprak,  \nbir tüneldeyim,  \nbir ceset var.\n\ncinayeti ben işlemedim  \nama ne olduğunu da hatırlamıyorum.\n\niki dedektif geliyor,  \ndoğal olarak benden şüpheleniyorlar.  \nonlara bir şeyler söylüyorum ama ne söylediğimi hatırlamıyorum.\n\nonlara tünelde rehberlik ediyorum.  \nkaçıp kurtulabileceğim noktalar olduğunu biliyorum, içerisi labirent gibi ve tuzaklar var, ama kaçmıyorum.\n\nüst katlara çıktıktan kısa süre sonra tünelden çıkıyoruz ve kendimizi lüks bir villada buluyoruz.\n\nnasıl bilmiyorum (ve hatırlamıyorum) ama iki detektif benim masum olduğuma ikna oluyor.  \niçimden ne kadar beceriksiz olduklarını geçiriyorum.  \nhemen sonra state-mandated **Pazar Kahvaltısı™** için uyandırılıyorum without consent.\n"},{"slug":"27-ekim-2025","frontmatter":{"title":"\"technopat\"","subtitle":"27 ekim, 2025","date":"2025-10-27","description":"technopat'tan herkese merhaba arkadaşlar, ben recep baltaş","slug":"27-ekim-2025","tags":["dream-log"]},"content":"$9"},{"slug":"liste","frontmatter":{"title":"listelendiniz","date":"2025-05-15","slug":"liste","description":"you know the drill","tags":["idk"]},"content":"$a"},{"slug":"01-nisan-2022","frontmatter":{"title":"\"antichrist\"","subtitle":"1 nisan, 2022","date":"2022-04-01","description":"evil bir bebeğim, emin emeklemelerle evil planımı gerçekleştiriyorum","slug":"01-nisan-2022","tags":["dream-log"]},"content":"$b"},{"slug":"23-mart-2022","frontmatter":{"title":"\"loveletter\"","subtitle":"23 mart, 2022","date":"2022-03-23","slug":"23-mart-2022","description":"bir dedektifim ve çok kalabalık bir caddedeyim ama görevimi bilmiyorum","coverImage":"https://i.imgur.com/cobIwPI.png","tags":["dream-log"]},"content":"$c"},{"slug":"27-nisan-2021","frontmatter":{"title":"\"gore\"","subtitle":"27 nisan, 2021","date":"2021-04-27","description":"bir adam bana elimi ve kolumu nasıl yenileyebileceğini anlatıyor.","slug":"27-nisan-2021","tags":["dream-log"]},"content":"\nkaranlık bir yerdeyim  \nbir sandalyede oturuyorum  \nsanırım bağlıyım\n\nbir adam bana elimi ve kolumu nasıl yenileyebileceğini anlatıyor.\n\nkolumu ve elimi bir kalıba(?) koyuyor.  \nönce bıçakla elimi kesiyor  \nsonra kolumu boydan boya kesiyor.\n\n---\n\nkolumun içinden mor bir şey çıkarıyor  \nve mor seyin ne olduğunu anlatıyor\n\nmor şeyin içini boşaltıyor  \nmor şeyin içini, içinden çıkana benzer, beyin gibi bir doku ile dolduruyor.\n\nellerim yeniden çıkıyor ama eskisi gibi degil.  \nfazladan parmaklar, parmaklar ucunda küçük eller...\n\n---\n\n[original tweet](https://x.com/ivmelenen/status/1934715991411302690)\n"},{"slug":"24-nisan-2021","frontmatter":{"title":"\"ölüm\"","subtitle":"24 nisan, 2021","date":"2021-04-24","description":"anaokulundayım. her yer rengarenk oyuncaklarla, akvaryumlarla dolu.","slug":"24-nisan-2021","coverImage":"https://cdn.hashnode.com/res/hashnode/image/upload/v1766873660547/70dcf334-8f60-45a6-92c4-d113f881d53e.jpeg","tags":["dream-log"]},"content":"$d"},{"slug":"24-mart-2021","frontmatter":{"title":"\"livestream\"","subtitle":"24 mart, 2021","date":"2021-03-24","description":"yayında bir bebek var, onu izliyorum ama ben, ben değilim, yayındaki bebeğim.","slug":"24-mart-2021","tags":["dream-log"]},"content":"$e"},{"slug":"misc-dreams","frontmatter":{"title":"bazı diğer rüyalar","subtitle":"öbürküler gibi değil","date":"2021-01-01","description":"kısa rüyalar, rüyamsılar, neredeyse rüyalar","slug":"misc-dreams","tags":["dream-log"]},"content":"$f"},{"slug":"test","frontmatter":{"title":"Penguenler 🐧","date":"0001-01-01","description":"Bu sayfada markdown çalışıyor mu diye test ediyorum","coverImage":"https://images.unsplash.com/photo-1598439210625-5067c578f3f6","slug":"test","tags":null},"content":"$10"}],"defaultTag":"dream-log"}]}]}],["$L11","$L12","$L13"],"$L14"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oW3TXlyt-kne4ocF8U77c"}
+11:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2l_ztvc5hr4tn.css","precedence":"next"}]
+12:["$","script","script-0",{"src":"/_next/static/chunks/3a6z_4f5ez4ey.js","async":true}]
+13:["$","script","script-1",{"src":"/_next/static/chunks/236-t3jnkzfje.js","async":true}]
+14:["$","$L15",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null

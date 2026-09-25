@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[35434,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2fiinavkoq49e.js","/_next/static/chunks/0_o481m7cdz80.js","/_next/static/chunks/2bxsrlua30nos.js"],"PageTemplate"]
-3:I[56025,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2fiinavkoq49e.js","/_next/static/chunks/0_o481m7cdz80.js","/_next/static/chunks/2bxsrlua30nos.js"],"Home"]
+2:I[35434,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/03zn4_qf30j9u.js","/_next/static/chunks/0_o481m7cdz80.js","/_next/static/chunks/2bxsrlua30nos.js"],"PageTemplate"]
+3:I[56025,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/03zn4_qf30j9u.js","/_next/static/chunks/0_o481m7cdz80.js","/_next/static/chunks/2bxsrlua30nos.js"],"Home"]
 4:I[97367,["/_next/static/chunks/1ne0suwwa2z4i.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/2fiinavkoq49e.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0_o481m7cdz80.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2bxsrlua30nos.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_VqOEX2IwBq_LotVJpFDy"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/03zn4_qf30j9u.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0_o481m7cdz80.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2bxsrlua30nos.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oW3TXlyt-kne4ocF8U77c"}
 6:null
